@@ -1,0 +1,291 @@
+/*
+Main styles for ID/DataWeb external-facing site
+@author avanderwoude
+*/
+
+@green: #449d44;
+@red: rgb(226, 0, 0);
+@yellow: #ECB60C;
+@idwgrey: #303030;
+@idwdarkblue: #002549;
+@idwdarkaccent:#002242;
+@idwblue:#00658F;
+@idwlightblue:#66A3BC;
+@idwgreen:#0AA25A;
+
+a {
+    color: @idwdarkblue;
+    text-decoration: none;
+}
+
+header.carousel{
+height:55%;
+    min-height: 400px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.panel {
+    border-radius: 0px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.09);
+    box-shadow: none;
+}
+
+.well {
+    border-radius: 0px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    border-radius: 0px;
+}
+
+.btn {
+    border-radius: 0px !important;
+}
+
+.quadvertising{
+	margin-top:80px;
+}
+
+.video-3{
+width:300px;
+}
+
+.navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #00658f;
+    border-color: #00658f;
+    border-width: 0 0 1px;
+    border-style: solid;
+	font-size:18px;
+}
+
+.navbar-toggle {
+	font-size:26px;
+	padding:0px;
+}
+
+.contact-us-link{
+padding-top:7px !important;
+padding-bottom:7px !important;
+}
+.contact-us-link button{
+font-size:16px;
+}
+.btn-idw{
+background-color:@idwblue;
+color:white;
+}
+.btn-idw:hover{
+background-color:@idwdarkblue;
+color:white;
+}
+
+.btn-clear{
+background-color:transparent;
+color:white;
+}
+.btn-clear:hover{
+background-color:transparent;
+color:white;
+text-decoration:underline;
+}
+.dropdown-menu {
+    font-size: 16px;
+	}
+	
+.carousel-caption {
+    top: 40px;
+    text-align: left;
+    text-shadow: 4px 4px 9px rgba(0,0,0,.7);
+	width:56%;
+}
+.carousel-caption h2{
+	font-weight:300;
+	font-size:36px;
+}
+.caption-actions{
+	font-size:16px;
+}
+
+.advertising-item{
+text-align:center;
+padding-left:40px;
+padding-right:20px;
+margin-bottom:40px;
+}
+.advertising-item h2{
+font-weight:300;
+}
+
+.video-3{
+width:100%;
+max-width:420px;
+}
+
+#mid-carousel{
+margin-top:80px;
+}
+
+.carousel-caption-dark{
+    width: 40%;
+    color: #000;
+    text-shadow: 0 1px 2px rgba(255,255,255,.6);
+    left: 9%;
+}
+
+.carousel-caption-detail{
+left:10%;
+}
+
+.stolen{
+text-align:center;
+color:#666;
+margin:60px 0px;
+}
+#stolen-count{
+font-size:160px;
+font-weight:200;
+}
+
+ @media only screen and (max-width : 1200px) {
+		#stolen-count{
+		font-size:120px;
+		}
+    }
+
+ @media only screen and (max-width : 992px) {
+		.navbar {
+			background-color: #fff;
+			border-bottom: 1px solid #00658f;
+			border-color: #00658f;
+			border-width: 0 0 1px;
+			border-style: solid;
+			font-size:14px;
+		}
+		
+		#stolen-count{
+		font-size:80px;
+		}
+		
+		.carousel-caption h2{
+			font-weight:300;
+			font-size:28px;
+		}
+    }
+	
+@media only screen and (max-width : 768px) {
+		.carousel-caption h2{
+			font-weight:300;
+			font-size:22px;
+		}
+		
+    }
+	.carousel-caption.dark{
+			color:black;
+		}
+	
+.navbar-brand {
+    padding: 15px 7px;
+}
+
+	.footer{
+	padding:40px 40px 0px 60px;
+	background-color:#2f2f2f;
+	color:white;
+	}
+	.footer a{
+	color:white;
+	}
+	.footer-links h3{
+	color:@idwlightblue;
+	}
+	
+	iframe#office-map{
+	width:100%;
+	}
+	
+	.ap-list{
+	
+	}
+	.idp-list-object, .ap-list-object, .lead-list-object{
+	.list-object;
+	}
+	.list-object{
+	margin-bottom:40px;
+	}
+	
+	.logo-img{
+		max-width:200px;
+		max-height:90px;
+	}
+	.idp-logo-img, .ap-logo-img{
+		.logo-img;
+	}
+	.img-container{
+	height:120px;
+	}
+	.idp-img-container, .ap-img-container, .lead-img-container{
+	.img-container;
+	}
+	
+	.circular {
+		border-radius: 50%;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		}
+
+	.darkblue{
+	color:@idwdarkblue;
+	}
+	.lead-list-object{
+	
+	}
+	
+	.leadship-glamour-shot{
+	height:210px;
+	max-width:200px;
+	.circular;
+	}
+	.leadship-glamour-detail{
+	height:240px;
+	max-width:200px;
+	}
+	
+	.leader-name{
+	font-weight:bold;
+	.darkblue;
+	}.leader-title{
+	font-size:1.3em;
+	}
+	
+	
+.title-box{
+.darkblue;
+font-size:1.3em;
+}
+	
+	.video-center{
+	width:100%;
+	text-align:center;
+	}
+	
+	.extra-sz{
+	font-size:1.2em;
+	}
+	
+	.quote-text{
+	font-size:1.3em;
+	font-style: italic;
+	}
+	.quote-author{
+	font-weight:bold;
+	}
+	.quotes-container{
+	padding:30px;
+	}
+	
