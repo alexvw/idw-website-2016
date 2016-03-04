@@ -22,23 +22,17 @@
         <div class="carousel-inner">
             <div class="item active">
                 <div class="fill" style="background-image:url('img/smart.jpg');"></div>
-                <div class="carousel-caption">
-                    <h2>Identity Verification<br>
+                <div class="carousel-caption" style="color:black;">
+                    <h2 style="background-color:rgba(255,255,255,0.6);padding:20px;text-shadow:none;">Identity Verification<br>
 					& Federation Services<br>
-					enabling Security, Privacy,<br>
-					 Convenience, and Savings
+					
+					
 					</h2>
 					<br><br><br>
 					<div class="caption-actions">
 						<a href="contact.php">
 							<button class="btn btn-lg btn-idw">
-								Request a Demo
-							</button>
-						</a>
-						&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="/axn-overview.php">
-							<button class="btn btn-lg  btn-clear">
-							Learn More <span class="glyphicon glyphicon-play"></span>
+								Contact Us
 							</button>
 						</a>
 					</div>
@@ -87,12 +81,18 @@
 
     <!-- Main Content -->
     <div class="container">
-	
+		<div class="row">
+			<div class="col-sm-12" style="text-align:center;">
+			<h2>Enabling security, privacy, convenience and savings</h2>
+			<br/><br/>
+			</div>
+		</div>
 	
         <hr>
 		<br>
         <!-- Marketing Icons Section -->
-        <div class="row quadvertising">
+        <!--
+		<div class="row quadvertising">
             <div class="col-md-4 col-xs-6 hover-container advertising-item">
 				<video class="video-hover video-3"
 					poster="vid/network-data-stored-elsewhere.png" loop="true" preload="auto"
@@ -130,14 +130,10 @@
             </div>
 			
         </div>
-        <!-- /.row -->
-		
-        <hr>
+		-->
 	</div>
-	<br>
-	<br><br>
 	
-	<div class="container">
+	<!--<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-sm-12">
 				<div class="video-center">
@@ -152,11 +148,178 @@
 		</div>
 		<hr>
 		<br>
-	</div>
+	</div>-->
 	<br>
 	<!-- Second container -->
 	<div class="container">
-		<br><br><br><br>
+		
+		<div class="row">
+			<div class="col-sm-12" style="text-align:center;">
+			<h2>At IDW our constituents benefit in many ways…</h2>
+			</div>
+		</div>
+		<br><br>
+		<div class="row">
+			<div class="col-sm-3">
+				<h3>Relying Parties</h3>
+				<ul style="list-style-type:none;">
+					<li>✓&nbsp; Deploy in Hours</li>
+					<li>✓&nbsp; Flexibility</li>
+					<li>✓&nbsp; Choice</li>
+					<li>✓&nbsp; Cost Savings</li>
+					<li>✓&nbsp; Security</li>
+					<li>✓&nbsp; Privacy</li>
+					<li>✓&nbsp; Preferences</li>
+					<li>✓&nbsp; Credential Federation</li>
+				</ul>
+			</div>
+			
+			<div class="col-sm-3">
+				<h3>Identity Providers</h3>
+				<ul style="list-style-type:none;">
+					<li>✓&nbsp; Cost Savings</li>
+					<li>✓&nbsp; New Revenue</li>
+					<li>✓&nbsp; Identity Proofing</li>
+					<li>✓&nbsp; Credential Federation</li>
+
+				</ul>
+			</div>
+			<div class="col-sm-3">
+				<h3>Attributes Providers</h3>
+				<ul style="list-style-type:none;">
+					<li>✓&nbsp; New Revenue</li>
+					<li>✓&nbsp; Sales Channel</li>
+					<li>✓&nbsp; Lower Cost of Sales</li>
+
+				</ul>
+			</div>
+			<div class="col-sm-3">
+				<h3>Customers</h3>
+				<ul style="list-style-type:none;">
+					<li>✓&nbsp; Convenience</li>
+					<li>✓&nbsp; Security</li>
+					<li>✓&nbsp; Privacy</li>
+
+				</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12" style="text-align:center;">
+			
+			<h2>How it works</h2>
+			<br/><br/>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6 col-sm-12">
+				<div class="video-center">
+					<iframe width="460" height="315" src="https://www.youtube.com/embed/8sq7o4-Gm4U?showinfo=0" frameborder="0" allowfullscreen></iframe>
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<div class="video-center">
+					<iframe width="460" height="315" src="https://www.youtube.com/embed/8sq7o4-Gm4U?showinfo=0" frameborder="0" allowfullscreen></iframe>
+				</div>
+			</div>
+		</div>
+		<!--
+		
+		-->
+		<br><br><br><br><br>
+        <hr>
+		<!--
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="stolen">
+					<span id="stolen-count" class="odometer">
+					1,023,108,267
+					</span>
+					<h1>Data Records Lost or Stolen in 2014</h1>
+					<p style="font-size:9px;">Source: Gemalto Breach Level Index 2014</p>
+				</div>
+			</div>
+		</div>
+		-->
+		<br>
+        <!-- Call to Action Section -->
+        <!--<div class="well">
+            <div class="row">
+                <div class="col-md-8">
+                    <p>ID/DataWeb enables consumers, employees, and partners to securely federate and reuse 
+					credentials and attributes in a policy driven, low-risk manner and at an affordable cost.</p>
+                </div>
+                <div class="col-md-4">
+                    <a class="btn btn-lg btn-idw btn-default btn-block" href="contact.php">Secure Your Data</a>
+                </div>
+            </div>
+        </div><br>-->
+		<br><br>
+        <!-- Portfolio Section -->
+        <div class="row">
+			<div class="col-xs-12">
+				<div class="stolen">
+					<h1>Industries we serve:<h1>
+				</div>
+			</div>
+		</div>
+		<br>
+		<div class="row">
+            <div class="col-md-4 col-sm-6 list-object">
+                <a href="industry/education.php">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/education.png" alt="">
+					<h4>Education<br></h4>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 list-object">
+                <a href="industry/entertainment.php">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/entertainment.png" alt="">
+					<h4>Entertainment<br></h4>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 list-object">
+                <a href="industry/financial.php">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/energy.png" alt="">
+					<h4>Energy<br></h4>
+                </a>
+            </div>
+			<div class="col-md-4 col-sm-6 list-object">
+                <a href="industry/government.php">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/finance.png" alt="">
+					<h4>Finance<br></h4>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 list-object">
+                <a href="industry/healthcare.php">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/health.png" alt="">
+					<h4>Healthcare<br></h4>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 list-object">
+                <a href="industry/transportation.php">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/government.png" alt="">
+					<h4>Government<br></h4>
+                </a>
+            </div>
+			<div class="col-md-4 col-sm-6 list-object">
+                <a href="industry/government.php">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/retail.png" alt="">
+					<h4>Retail<br></h4>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 list-object">
+                <a href="industry/healthcare.php">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/technology.png" alt="">
+					<h4>Technology<br></h4>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 list-object">
+                <a href="industry/transportation.php">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/transport.png" alt="">
+					<h4>Transportation<br></h4>
+                </a>
+            </div>
+        </div>
+		<br><br>
 		<div class="quotes-container">
 			<div class="row">
 				<div class="col-sm-6">
@@ -185,80 +348,6 @@
 				</div>
 			</div>
 		</div>
-		<br><br><br><br><br>
-        <hr>
-		<div class="row">
-			<div class="col-xs-12">
-				<div class="stolen">
-					<span id="stolen-count" class="odometer">
-					1,023,108,267
-					</span>
-					<h1>Data Records Lost or Stolen in 2014</h1>
-					<p style="font-size:9px;">Source: Gemalto Breach Level Index 2014</p>
-				</div>
-			</div>
-		</div>
-		<br>
-        <!-- Call to Action Section -->
-        <div class="well">
-            <div class="row">
-                <div class="col-md-8">
-                    <p>ID/DataWeb enables consumers, employees, and partners to securely federate and reuse 
-					credentials and attributes in a policy driven, low-risk manner and at an affordable cost.</p>
-                </div>
-                <div class="col-md-4">
-                    <a class="btn btn-lg btn-idw btn-default btn-block" href="contact.php">Secure Your Data</a>
-                </div>
-            </div>
-        </div><br>
-		<br><br>
-        <!-- Portfolio Section -->
-        <div class="row">
-			<div class="col-xs-12">
-				<div class="stolen">
-					<h1>Serving many industries<h1>
-				</div>
-			</div>
-		</div>
-		<br>
-		<div class="row">
-            <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/education.php">
-                    <img class="img-responsive img-portfolio img-hover" src="img/sm/education.png" alt="">
-					<h4>Education<br></h4>
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/entertainment.php">
-                    <img class="img-responsive img-portfolio img-hover" src="img/sm/entertainment.png" alt="">
-					<h4>Entertainment<br></h4>
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/financial.php">
-                    <img class="img-responsive img-portfolio img-hover" src="img/sm/financial.png" alt="">
-					<h4>Financial<br></h4>
-                </a>
-            </div>
-			<div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/government.php">
-                    <img class="img-responsive img-portfolio img-hover" src="img/sm/government.png" alt="">
-					<h4>Government<br></h4>
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/healthcare.php">
-                    <img class="img-responsive img-portfolio img-hover" src="img/sm/health.png" alt="">
-					<h4>Healthcare<br></h4>
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/transportation.php">
-                    <img class="img-responsive img-portfolio img-hover" src="img/sm/transport.png" alt="">
-					<h4>Transportation<br></h4>
-                </a>
-            </div>
-        </div>
         <!-- /.row -->
 <br><br>
         <hr>

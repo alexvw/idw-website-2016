@@ -32,8 +32,26 @@
         <div class="row">
             <div class="col-lg-12"><br>
 					<br>
-					<h3>Join our network text goes here
-					</h3>
+						<h2>Join our Attribute Exchange Network</h2>
+
+						<h4>ID Dataweb has integrated leading identity providers and attribute partners
+						into the ecosystem.  Our network continues to grow.</h4>
+
+TODO:
+
+
+FIELDS:
+Company Name                 Company Phone                      D-U-N-S Number
+Address                                Country                                     Company E-Mail
+City                                        Postal Code
+Primary Contact                Phone Number                        Primary Email Address
+
+Identity Provider              Attribute Provider                  Both
+
+
+Description of business:
+(500 characters)					
+
             </div>
         </div>
 		

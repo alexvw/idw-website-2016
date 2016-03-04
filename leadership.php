@@ -53,7 +53,7 @@
 					<a href="https://www.linkedin.com/in/andrewtarbox"><i class="fa fa-linkedin-square fa-2x"></i></a>
 				</a>
             </div>
-			<div class="col-lg-3 col-md-4 col-sm-6 lead-list-object">
+			<!--<div class="col-lg-3 col-md-4 col-sm-6 lead-list-object">
 				<a href="/bios/bcoxe.php">
                     <img class="img-responsive img-hover leadship-glamour-shot" src="/img/leadship/bcoxe.png" alt="Bob Coxe">
 					<h3 class="leader-name">Bob Coxe</h3>
@@ -70,7 +70,7 @@
 					<a href="mailto:tim.snyder@iddataweb.com"><i class="fa fa-envelope fa-2x"></i></span></a>
 					<a href="#"><i class="fa fa-linkedin-square fa-2x"></i></a>
 				</a>
-            </div>
+            </div>-->
 			<div class="col-lg-3 col-md-4 col-sm-6 lead-list-object">
 				<a href="/bios/lnimmo.php">
                     <img class="img-responsive img-hover leadship-glamour-shot" src="/img/leadship/lnimmo.png" alt="Linda Nimmo">

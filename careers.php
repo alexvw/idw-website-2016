@@ -31,24 +31,19 @@
         <!-- Content Row -->
         <div class="row">
             <div class="col-lg-12"><br>
+				<h2>ID DataWeb Careers</h2>
 					<br>
-					<h3>ID/DataWeb ‘s identity proofing and verification service is 
-					precipitating  a paradigm shift in  the market for identity security.  
-					The parameters of defense have expanded beyond the walls of enterprises 
-					and are far reaching across industry supply chains and ecosystems which 
-					is the sweet spot for ID/DataWeb’s services.  
-					</h3>
+					<h3>ID DataWeb‘s identity verification and federation service is precipitating a 
+					paradigm shift in the market for identity security. The parameters of defense have 
+					expanded beyond the walls of enterprises and are far reaching across industry supply 
+					chains and ecosystems which drive the requirement for our identity managed service.</h3>
 					<br>
-					<h3>If you are passionate and interested in being part of a high 
-					energy team focused on creating value for customers and winning, 
-					send your C.V. along with a cover letter to careers@iddataweb.com  
-					for consideration. 
-					</h3>
+					<h4>If you are passionate about joining a high energy team focused on solving Big 
+					Problems in Identity Management, contact <b>careers@iddataweb.com</b> for consideration.</h4>
 					<br>
-					<h3>
-					ID/DataWeb is always looking for top talent in marketing, sales, and 
-					development who have a passion for growth and success!
-					</h4>
+					<h3><b><i>ID/DataWeb is always looking for top talent in marketing, sales, and development 
+					who have a passion for growth and success!</b></I></h4>
+
             </div>
         </div>
 		
