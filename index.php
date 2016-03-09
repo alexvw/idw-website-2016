@@ -23,15 +23,16 @@
             <div class="item active">
                 <div class="fill" style="background-image:url('img/smart.jpg');"></div>
                 <div class="carousel-caption" style="color:black;">
-                    <h2 style="background-color:rgba(255,255,255,0.6);padding:20px;text-shadow:none;">Identity Verification<br>
-					& Federation Services<br>
+                    <h2 style="/*background-color:rgba(255,255,255,0.6);*/font-weight:600;padding:20px;text-shadow:none;">
+					Cloud Broker Services for <br/>
+					Identity Verification and Federation
 					
 					
 					</h2>
 					<br><br><br>
 					<div class="caption-actions">
 						<a href="contact.php">
-							<button class="btn btn-lg btn-idw">
+							<button class="btn btn-lg btn-idw" style="float:right;">
 								Contact Us
 							</button>
 						</a>
@@ -83,7 +84,7 @@
     <div class="container">
 		<div class="row">
 			<div class="col-sm-12" style="text-align:center;">
-			<h2>Enabling security, privacy, convenience and savings</h2>
+			<h2><i>enabling security, privacy, convenience and savings</i></h2>
 			<br/><br/>
 			</div>
 		</div>
@@ -155,14 +156,14 @@
 		
 		<div class="row">
 			<div class="col-sm-12" style="text-align:center;">
-			<h2>At IDW our constituents benefit in many ways…</h2>
+			<h2>Our constituents benefit in many ways…</h2>
 			</div>
 		</div>
 		<br><br>
 		<div class="row">
 			<div class="col-sm-3">
 				<h3>Relying Parties</h3>
-				<ul style="list-style-type:none;">
+				<ul class="front-page-list">
 					<li>✓&nbsp; Deploy in Hours</li>
 					<li>✓&nbsp; Flexibility</li>
 					<li>✓&nbsp; Choice</li>
@@ -176,7 +177,7 @@
 			
 			<div class="col-sm-3">
 				<h3>Identity Providers</h3>
-				<ul style="list-style-type:none;">
+				<ul class="front-page-list">
 					<li>✓&nbsp; Cost Savings</li>
 					<li>✓&nbsp; New Revenue</li>
 					<li>✓&nbsp; Identity Proofing</li>
@@ -186,7 +187,7 @@
 			</div>
 			<div class="col-sm-3">
 				<h3>Attributes Providers</h3>
-				<ul style="list-style-type:none;">
+				<ul class="front-page-list">
 					<li>✓&nbsp; New Revenue</li>
 					<li>✓&nbsp; Sales Channel</li>
 					<li>✓&nbsp; Lower Cost of Sales</li>
@@ -195,7 +196,7 @@
 			</div>
 			<div class="col-sm-3">
 				<h3>Customers</h3>
-				<ul style="list-style-type:none;">
+				<ul class="front-page-list">
 					<li>✓&nbsp; Convenience</li>
 					<li>✓&nbsp; Security</li>
 					<li>✓&nbsp; Privacy</li>
@@ -258,68 +259,76 @@
         <div class="row">
 			<div class="col-xs-12">
 				<div class="stolen">
-					<h1>Industries we serve:<h1>
+					<h1>Industries we serve<h1>
 				</div>
 			</div>
 		</div>
 		<br>
 		<div class="row">
             <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/education.php">
+                <a href="/industry/industry.php#education">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/education.png" alt="">
 					<h4>Education<br></h4>
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/entertainment.php">
-                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/entertainment.png" alt="">
+                <a href="industry/industry.php#entertainment">
+                    <img class="/industry-thumb img-responsive img-portfolio img-hover" src="img/sm/entertainment.png" alt="">
 					<h4>Entertainment<br></h4>
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/financial.php">
+                <a href="/industry/industry.php#energy">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/energy.png" alt="">
 					<h4>Energy<br></h4>
                 </a>
             </div>
 			<div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/government.php">
+                <a href="/industry/industry.php#finance">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/finance.png" alt="">
 					<h4>Finance<br></h4>
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/healthcare.php">
+                <a href="/industry/industry.php#health">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/health.png" alt="">
 					<h4>Healthcare<br></h4>
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/transportation.php">
+                <a href="/industry/industry.php#government">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/government.png" alt="">
 					<h4>Government<br></h4>
                 </a>
             </div>
 			<div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/government.php">
+                <a href="/industry/industry.php#retail">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/retail.png" alt="">
 					<h4>Retail<br></h4>
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/healthcare.php">
+                <a href="/industry/industry.php#technology">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/technology.png" alt="">
 					<h4>Technology<br></h4>
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/transportation.php">
+                <a href="/industry/industry.php#transportation">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/transport.png" alt="">
 					<h4>Transportation<br></h4>
                 </a>
             </div>
         </div>
-		<br><br>
+		
+		<br><br><div class="row">
+			<div class="col-xs-12">
+				<div class="stolen">
+					<h1>What customers are saying<h1>
+				</div>
+			</div>
+		</div>
+		<br>
 		<div class="quotes-container">
 			<div class="row">
 				<div class="col-sm-6">

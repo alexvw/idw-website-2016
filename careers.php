@@ -33,16 +33,16 @@
             <div class="col-lg-12"><br>
 				<h2>ID DataWeb Careers</h2>
 					<br>
-					<h3>ID DataWeb‘s identity verification and federation service is precipitating a 
+					<p>ID DataWeb‘s identity verification and federation service is precipitating a 
 					paradigm shift in the market for identity security. The parameters of defense have 
 					expanded beyond the walls of enterprises and are far reaching across industry supply 
-					chains and ecosystems which drive the requirement for our identity managed service.</h3>
+					chains and ecosystems which drive the requirement for our identity managed service.</p>
 					<br>
-					<h4>If you are passionate about joining a high energy team focused on solving Big 
-					Problems in Identity Management, contact <b>careers@iddataweb.com</b> for consideration.</h4>
+					<p>If you are passionate about joining a high energy team focused on solving Big 
+					Problems in Identity Management, contact <b>careers@iddataweb.com</b> for consideration.</p>
 					<br>
-					<h3><b><i>ID/DataWeb is always looking for top talent in marketing, sales, and development 
-					who have a passion for growth and success!</b></I></h4>
+					<p><b><i>ID/DataWeb is always looking for top talent in marketing, sales, and development 
+					who have a passion for growth and success!</b></I></p>
 
             </div>
         </div>

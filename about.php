@@ -34,22 +34,22 @@
         <div class="row">
             <div class="col-lg-12">
 				<h2>About Us</h2>
-				<h4>IDW provides an identity proofing and federation cloud service for  enterprises and their communities.</h4>
+				<h3>IDW provides <b>Cloud Broker Services for Identity Verification and Federation</b> to enterprises and their communities.</h3>
 				<br>
-				<h3>ID Dataweb Story</h3>
-				<p>Founded in 2011, ID Dataweb was spinout of Criterion Systems, a premier cybersecurity professional 
+				<h2>ID Dataweb Story</h2>
+				<h3>Founded in 2011, ID Dataweb was spinout of Criterion Systems, a premier cybersecurity professional 
 				services company for the government.  Headquartered in Northern Virginia, ID DataWeb’s Attribute 
-				Exchange Network (AXN) provides identity services globally.</p>
+				Exchange Network (AXN) provides identity services globally.</h3>
 
 				<h3>Early Days with Google</h3>
-				<p>IDW partnered with Google to design and develop an open-sourced software system for 
+				<p class="larger">IDW partnered with Google to design and develop an open-sourced software system for 
 				identity federation. The system enabled users to reduce the number of credentials needed 
 				to create and log into accounts online. Upon completion of the Google project, 
 				IDW realized that a cloud-based transaction hub would enable a powerful model 
 				for identity federation and independently created  the AXN managed service.</p>
 
 				<h3>NSTIC Experience</h3>
-				<p>In 2012, IDW’s affiliate, Criterion Systems, was awarded and successfully 
+				<p class="larger">In 2012, IDW’s affiliate, Criterion Systems, was awarded and successfully 
 				executed a grant from the National Institute of Standards and Technology 
 				(“NIST”) to implement pilots for the National Strategy for Trusted Identities 
 				in Cyberspace (“NSTIC”).   IDW implemented pilots using the AXN, an Internet-
@@ -57,7 +57,7 @@
 				and credential federation.  The AXN can be used to enforce privacy and federated 
 				Attribute Based Access Control (“ABAC”) security precepts for enhanced security and privacy.</p>  
 				
-				<p>As a commercial cloud service, the AXN enables Identity Providers, Attribute Providers, 
+				<p class="larger">As a commercial cloud service, the AXN enables Identity Providers, Attribute Providers, 
 				Relying Parties, and users to securely federate and reuse credentials with verified user 
 				attributes in a policy driver, low-risk manner at an affordable cost.</p>
 

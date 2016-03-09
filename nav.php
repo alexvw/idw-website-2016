@@ -15,29 +15,48 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
 					<li class="dropdown">
-                        <a href="/axn-overview.php">Services</a>
+                        <a href="/axn-overview.php">AXN Service</a>
                     </li>
 					<li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industries <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li>
-                                <a href="/industry/education.php">Education</a>
-                            </li>
-                            <li>
-                                <a href="/industry/entertainment.php">Entertainment</a>
-                            </li>
-                            <li>
-                                <a href="/industry/financial.php">Financial</a>
-                            </li>
-                            <li>
-                                <a href="/industry/government.php">Government</a>
-                            </li>
-                            <li>
-                                <a href="/industry/healthcare.php">Healthcare</a>
-                            </li>
-                            <li>
-                                <a href="/industry/transportation.php">Transportation</a>
-                            </li>
+                            <li><a href="/industry/industry.php#education">
+									Education
+								</a>
+							 </li>
+                            <li><a href="/industry/industry.php#entertainment">
+									Entertainment
+								</a>
+							 </li>
+                            <li><a href="/industry/industry.php#energy">
+									Energy
+								</a>
+							 </li>
+                            <li><a href="/industry/industry.php#finance">
+									Finance
+								</a>
+							 </li>
+                            <li><a href="/industry/industry.php#health">
+									Healthcare
+								</a>
+							 </li>
+                            <li><a href="/industry/industry.php#government">
+									Government
+								</a>
+							 </li>
+							
+                            <li><a href="/industry/industry.php#retail">
+									Retail
+								</a>
+							 </li>
+                            <li><a href="/industry/industry.php#technology">
+									Technology
+								</a>
+							 </li>
+                            <li><a href="/industry/industry.php#transportation">
+									Transportation
+								</a>
+							 </li>
                         </ul>
                     </li>
 					<li class="dropdown">
@@ -59,7 +78,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="/resources.php#casestudies">Case Studies</a>
+                                <a href="/usecases.php">Use Cases</a>
                             </li>
 							<li>
                                 <a href="/faq.php">FAQ</a>
@@ -77,7 +96,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Company <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="/about.php">About ID DataWeb</a>
+                                <a href="/about.php">About Us</a>
                             </li>
 							<li>
                                 <a href="/affiliations.php">Affiliations</a>

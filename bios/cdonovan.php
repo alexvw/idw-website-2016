@@ -32,9 +32,9 @@
 					src="/img/leadship/cdonovan.png" alt="Christine Donovan" >
 					</div>
 					<div class="col-sm-6">
-						<h4>
+						<h3>
 						Christine Donovan is Vice President of Product Development with over 20 years of experience developing and deploying software technologies across multiple industries including; financial services, mortgage banking, and government.  Her experience spans across across all phases of the software development lifecycle from concept, architecture, development, testing, production and enhancements.  
-</h4>
+</h3>
 
 					</div>
 				</div>

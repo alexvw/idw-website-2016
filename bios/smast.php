@@ -32,45 +32,45 @@
 					src="/img/leadship/smast.png" alt="Steve Mast">
 					</div>
 					<div class="col-sm-4">
-						<h4>
+						<h3>
 						Mr. Mast has 25 years of financial management experience in both public and private information technology firms.
-						</h4>
+						</h3>
 						
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-sm-12">
 					<br>
-					<h4>Criterion Systems, CFO</h4>
+					<h3>Criterion Systems, CFO</h3>
 
 						<p>Responsible for all finance, accounting and legal operations for IT services and high performance solutions company.
 </p>
-					<h4>Intersect Software Corporation, CFO</h4>
+					<h3>Intersect Software Corporation, CFO</h3>
 
 						<p>Responsible for the financial, administrative and day-to-day operations of a venture capital backed company focused on project, process and portfolio management software.
 </p>
-					<h4>Invertix Corporation, CFO</h4>
+					<h3>Invertix Corporation, CFO</h3>
 
 						<p>Closed two rounds of venture capital financing for this early stage telecommunications software and services firm.
 </p>
-					<h4>SM&A Corporation, CFO</h4>
+					<h3>SM&A Corporation, CFO</h3>
 
 						<p>A $110M revenue company with approximately 650 employees.
 						Successfully integrated several acquisitions onto a single financial system and benefits plan, and was responsible for the initial SEC filings and secondary offering documents.
 </p>
-					<h4>Space Applications Corporation, CFO</h4>
+					<h3>Space Applications Corporation, CFO</h3>
 
 						<p>A $30M revenue IT services company. Managed the acquisition and integration of an IT services contractor, and ultimately, the high-value sale of the company.
 </p>
-					<h4>Savant Corporation, Board of Directors and Secretary</h4>
+					<h3>Savant Corporation, Board of Directors and Secretary</h3>
 
 						<p>Instrumental in structuring the financial and administrative functions of this database management software firm, raising equity financing and selling the company to Precise Software (Veritas Software).
 </p>
-					<h4>Coopers & Lybrand LLP , Manager</h4>
+					<h3>Coopers & Lybrand LLP , Manager</h3>
 
 						<p>Managed a diverse client base of public and privately held companies ranging from over $10 billion in revenue to startups, and managed many special projects including M&A due diligence and internal control reviews.
 </p>
-					<h4>Education</h4>
+					<h3>Education</h3>
 
 						<p>Bachelor of Science in Accounting from the University of Delaware in 1985 where he graduated first in the class. He was nationally recognized for outstanding performance on the 1985 CPA examination.
 </p>

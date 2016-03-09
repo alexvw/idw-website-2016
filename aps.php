@@ -127,6 +127,16 @@
 					and services that address evolving client needs in the risk sector while upholding the highest standards of security and privacy.</p>
 					<br>
 				</div>
+				
+				<div class="col-lg-4 col-md-6 col-sm-12 ap-list-object">
+					<div class="ap-img-container"><img class="img-responsive img-hover ap-logo-img" src="img/ap/studentclearinghouse.png" alt="National Student Clearinghouse Logo"></div>
+					<!--<h2>National Student Clearinghouse</h2>-->
+					<p>The National Student Clearinghouse is the nation's trusted source for education verification and student outcomes research, 
+					and education record exchanges, handling 1+ billion transactions annually. Since 1993, we've served the education community by 
+					facilitating the exchange and understanding of student enrollment, performance and related information via our Data Exchange 
+					Services, Financial Aid Services, Research Services and Verification Services, including DegreeVerify and EnrollmentVerify.</p>
+					<br>
+				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12 ap-list-object">
 					<div class="ap-img-container"><img class="img-responsive img-hover ap-logo-img" src="img/ap/secureauth.png" alt="Secureauth Logo"></div>
 					<!--<h2>SecureAuth</h2>-->

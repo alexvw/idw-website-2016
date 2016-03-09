@@ -64,7 +64,9 @@
 				</div>
 			</div>
 			<div class="col-md-6">
-				<h3>Interested in how ID/DataWeb can solve your problems? Send us a message and we will get in contact shortly.</h3>
+				<h3>Interested in learning more about the our AXN Service?  <br>
+Send us your information and we will contact you shortly.
+</h3>
                 <form name="sentMessage" id="contactForm" novalidate>
                     <div class="control-group form-group">
                         <div class="controls">
