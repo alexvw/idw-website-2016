@@ -23,7 +23,7 @@
             <div class="item active">
                 <div class="fill" style="background-image:url('img/smart.jpg');"></div>
                 <div class="carousel-caption" style="color:black;">
-                    <h2 style="/*background-color:rgba(255,255,255,0.6);*/font-weight:600;padding:20px;text-shadow:none;">
+                    <h2 style="/*background-color:rgba(255,255,255,0.6);*/font-weight:700;padding:20px;text-shadow:none;">
 					Cloud Broker Services for <br/>
 					Identity Verification and Federation
 					
@@ -273,7 +273,7 @@
             </div>
             <div class="col-md-4 col-sm-6 list-object">
                 <a href="industry/industry.php#entertainment">
-                    <img class="/industry-thumb img-responsive img-portfolio img-hover" src="img/sm/entertainment.png" alt="">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/entertainment.png" alt="">
 					<h4>Entertainment<br></h4>
                 </a>
             </div>
