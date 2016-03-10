@@ -16,7 +16,7 @@
 				<article>
 					<div class="entry-content">
 						<h2><img src="/img/question.png" />&nbsp;&nbsp;ID DataWeb Attribute Exchange Network (AXN)</h2>
-						<h2>Frequently Asked Questions:</h2>
+						<h2><i>Frequently Asked Questions:</i></h2>
 						<br>
 						<h2>How is the AXN deployed?</h2>
 
