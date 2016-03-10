@@ -32,10 +32,10 @@
 					src="/img/leadship/lnimmo.png" alt="Linda Vesper Nimmo" >
 					</div>
 					<div class="col-sm-6">
-						<h3>
+						<p>
 						Linda Vesper Nimmo is Vice President of Business Development.  Her responsibilities include establishing new channel partnerships and sales across industries including; healthcare, media and entertainment, and education.  Linda has over 25 years of sales experience working with government agencies, systems integrators, and telecommunications companies.  
 
-						</h3>
+						</p>
 						
 					</div>
 				</div>

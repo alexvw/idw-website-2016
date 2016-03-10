@@ -43,16 +43,16 @@
         <!-- Content Row -->
         <div class="row">
             <div class="col-lg-12">
-                <h3>
+                <p>
 				An Attribute Provider (AP) is a trustworthy source of verified user identity attributes 
 				to include name, address, telephone number and device identity to matching biometrics with a selfie. 
-				Our attribute partners include; credit bureaus, telcos, and a variety of biometric services.</h3><br>
-				<h3>
+				Our attribute partners include; credit bureaus, telcos, and a variety of biometric services.</p><br>
+				<p>
 				By integrating with the AXN network, attribute providers expand market reach through a new 
 				distribution channel which increases revenue.  Partnering with IDW reduces cost of sales 
-				while enabling competitive business models.</h3>
+				while enabling competitive business models.</p>
 				<br><br>
-				<h3><b>We are adding new services every day using our open standard APIs.</b></h3>
+				<p><b>We are adding new services every day using our open standard APIs.</b></p>
 				<br>
 				<a class="btn btn-lg btn-idw btn-default btn-block" href="/join.php">Join our Network</a>
 				
@@ -65,6 +65,17 @@
 			
 			<!-- AP list -->
 			<div class="row">
+				<div class="col-lg-4 col-md-6 col-sm-12 ap-list-object">
+					<div class="ap-img-container"><img class="img-responsive img-hover ap-logo-img" src="img/idp/ldap.png" alt="LDAP"></div>
+					<!--<h2>Authentify</h2>-->
+					<p>Any LDAP or custom directory service can be invoked to verify user
+					attributes for identity verification and federation.  Our solution  integrates
+					with company LDAP services to verify a variety of attributes based on policy
+					Including employment status. LDAP services range from custom to industry
+					Standard directory solutions.
+					</p>
+					<br>
+				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12 ap-list-object">
 					<div class="ap-img-container"><img class="img-responsive img-hover ap-logo-img" src="img/ap/authentify.png" alt="Authentify Logo"></div>
 					<!--<h2>Authentify</h2>-->

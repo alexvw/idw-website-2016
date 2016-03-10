@@ -77,14 +77,15 @@
 					<li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li>
-                                <a href="/usecases.php">Use Cases</a>
-                            </li>
 							<li>
                                 <a href="/faq.php">FAQ</a>
                             </li>
 							<li>
                                 <a href="/resources.php#pressreleases">Press Releases</a>
+                            </li>
+							
+                            <li>
+                                <a href="/usecases.php">Use Cases</a>
                             </li>
 							<li>
                                 <a href="/resources.php#whitepapers">Whitepapers</a>

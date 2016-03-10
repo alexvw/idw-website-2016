@@ -33,13 +33,13 @@
 					src="/img/leadship/dcoxe.png" alt="Dave Coxe" >
 					</div>
 					<div class="col-sm-9">
-						<h3>
+						<p>
 						Mr. David Coxe is the CEO of ID DataWeb, Inc., which is located in Vienna, 
 						Virginia, USA and is also co-founder of Criterion Systems, a successful IT 
 						services contractor that provides information security, cloud computing, 
 						software development and other services to civilian agencies, Department 
 						of Defense, and Intel community customers. 
-						</h3>
+						</p>
 						<p>
 						With more than 15 years identity 
 						management experience, Mr. Coxe is the Principal Investigator for the NSTIC 

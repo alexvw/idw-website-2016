@@ -35,12 +35,12 @@
 				
 			<h2>Affiliations</h2>
 
-			<h4>
+			<p>
 				ID DataWeb is an innovator and recognized leader in the cybersecurity industry.  ID DataWeb is an active member in many identity and cybersecurity working groups through its participation in speaking engagements, panel discussions, technical workshops, whitepapers and pilot programs.
 				<br><br>
 				<br>
 				Several of the key affiliations and member organizations are listed below:
-				</h4><br>
+				</p><br>
 				<h3>Open Identity Exchange - OIX  - <a href="www.openidentityexchange.org">www.openidentityexchange.org</a>
 				</h3><p>
 				The Open Identity Exchange (OIX) is a technology agnostic, non-profit trade organization of leaders from competing business sectors focused on building the volume and velocity of trusted transactions online. 

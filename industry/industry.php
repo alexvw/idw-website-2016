@@ -48,12 +48,12 @@
 				to support communications, information, applications, and resources
 				and courses.</p>
 				<p>ID DataWeb enhances privacy and security of your personal identity while using webservices.</p>
-				<ul class="front-page-list">
-					<li>•&nbsp;  Share records with whom you choose</li>
-					<li>•&nbsp;  Save time completing applications</li>
-					<li>•&nbsp;  Authorize information exchange with your ecosystem of support</li>
-					<li>•&nbsp;  Simplify webservice login</li>
-					<li>•&nbsp;  Access to affiliate benefits</li>
+				<ul class=" larger-list">
+					<li> Share records with whom you choose</li>
+					<li> Save time completing applications</li>
+					<li> Authorize information exchange with your ecosystem of support</li>
+					<li> Simplify webservice login</li>
+					<li> Access to affiliate benefits</li>
 				</ul>
             </div>
 			<div class="col-sm-6">
@@ -76,10 +76,10 @@
 				<p>The <b>Entertainment</b> industry is focused on driving operational efficiencies while innovating and adopting new technologies to support the development and delivery lifecycle.  Organizations require more control, convenience, access, and security. 
 				</p>
 				<p>ID DataWeb provides attribute based access control which is essential for protecting assets.</p>
-				<ul class="front-page-list">
-					<li>•&nbsp;  Share digital assets online with enhanced control</li>
-					<li>•&nbsp;  Federate credentials across ecosystems</li>
-					<li>•&nbsp;  Invoke higher level of assurance credentials as needed</li>
+				<ul class=" larger-list">
+					<li> Share digital assets online with enhanced control</li>
+					<li> Federate credentials across ecosystems</li>
+					<li> Invoke higher level of assurance credentials as needed</li>
 				</ul>
             </div>
 			<div class="col-sm-6">
@@ -102,10 +102,10 @@
 				<p>The <b>Healthcare</b> industry is transforming to support more patient centric services providing 
 				more control, flexibility, access, privacy and security. </p>
 				<p>ID DataWeb reduces the risk of your personal identity and information getting compromised.</p>
-				<ul class="front-page-list">
-					<li>•&nbsp;  Share EHR and PHR with whom you choose</li>
-					<li>•&nbsp;  Save time completing virtual clipboard with reuse</li>
-					<li>•&nbsp;  Authorize information exchange between medical professionals </li>
+				<ul class=" larger-list">
+					<li> Share EHR and PHR with whom you choose</li>
+					<li> Save time completing virtual clipboard with reuse</li>
+					<li> Authorize information exchange between medical professionals </li>
 				</ul>
             </div>
 			<div class="col-sm-6">
@@ -128,9 +128,9 @@
 				<p>The <b>Energy</b> industry is rapidly adopting cloud computing amassing significant data and 
 				information which needs to be actionable throughout the supply chain of plants and facilities.  Both physical and logical security is paramount. </p>
 				<p>ID DataWeb enables the use various levels of assurance credentials along with multifactor authentication to mitigate risk. </p>
-				<ul class="front-page-list">
-					<li>•&nbsp;  Share data and information with enhanced security</li>
-					<li>•&nbsp;  Authorize information exchange between facilities and contractors</li>
+				<ul class=" larger-list">
+					<li> Share data and information with enhanced security</li>
+					<li> Authorize information exchange between facilities and contractors</li>
 				</ul>
             </div>
 			<div class="col-sm-6">
@@ -152,11 +152,11 @@
 			<div class="col-sm-6">
 				<p>The <b>Financial Services</b> industry continues to convert services from analog to digital providing more control, flexibility, access, privacy and security for customers.</p>
 				<p>ID DataWeb reduces the risk of compromising your personal identity and information.</p>
-				<ul class="front-page-list">
-					<li>•&nbsp;  Control and receive information digitally</li>
-					<li>•&nbsp;  Save time registering for applications and services</li>
-					<li>•&nbsp;  Authorize information exchange between financial institutions</li>
-					<li>•&nbsp;  Verify and track employees access customer information</li>
+				<ul class=" larger-list">
+					<li> Control and receive information digitally</li>
+					<li> Save time registering for applications and services</li>
+					<li> Authorize information exchange between financial institutions</li>
+					<li> Verify and track employees access customer information</li>
 				</ul>
             </div>
 			<div class="col-sm-6">
@@ -179,10 +179,10 @@
 				<p>The <b>Government</b> industry is implementing new strategies and technologies to abate the global impact of cyberthreats.
 					ID DataWeb enables enhanced control and security within the government ecosystem of agencies, suppliers, and contractors.</p>
 
-				<ul class="front-page-list">
-					<li>•&nbsp;  Share data and information using high assurance credentials and multiple attributes</li>
-					<li>•&nbsp;  Control access realtime using current employment data</li>
-					<li>•&nbsp;  Improve visibility and tracking of asset access</li>
+				<ul class=" larger-list">
+					<li> Share data and information using high assurance credentials and multiple attributes</li>
+					<li> Control access realtime using current employment data</li>
+					<li> Improve visibility and tracking of asset access</li>
 				</ul>
             </div>
 			<div class="col-sm-6">
@@ -205,10 +205,10 @@
 				<p>The <b>Entertainment</b> industry is focused on driving operational efficiencies while innovating and adopting new technologies to support the development and delivery lifecycle.  Organizations require more control, convenience, access, and security. 
 </p>
 				<p>ID DataWeb provides attribute based access control which is essential for protecting assets.</p>
-				<ul class="front-page-list">
-					<li>•&nbsp;  Share digital assets online with enhanced control</li>
-					<li>•&nbsp;  Federate credentials across ecosystems</li>
-					<li>•&nbsp;  Invoke higher level of assurance credentials as needed</li>
+				<ul class=" larger-list">
+					<li> Share digital assets online with enhanced control</li>
+					<li> Federate credentials across ecosystems</li>
+					<li> Invoke higher level of assurance credentials as needed</li>
 				</ul>
             </div>
 			<div class="col-sm-6">
@@ -231,10 +231,10 @@
 				<p>The <b>Entertainment</b> industry is focused on driving operational efficiencies while innovating and adopting new technologies to support the development and delivery lifecycle.  Organizations require more control, convenience, access, and security. 
 </p>
 				<p>ID DataWeb provides attribute based access control which is essential for protecting assets.</p>
-				<ul class="front-page-list">
-					<li>•&nbsp;  Share digital assets online with enhanced control</li>
-					<li>•&nbsp;  Federate credentials across ecosystems</li>
-					<li>•&nbsp;  Invoke higher level of assurance credentials as needed</li>
+				<ul class=" larger-list">
+					<li> Share digital assets online with enhanced control</li>
+					<li> Federate credentials across ecosystems</li>
+					<li> Invoke higher level of assurance credentials as needed</li>
 				</ul>
             </div>
 			<div class="col-sm-6">
@@ -257,10 +257,10 @@
 				<p>The <b>Entertainment</b> industry is focused on driving operational efficiencies while innovating and adopting new technologies to support the development and delivery lifecycle.  Organizations require more control, convenience, access, and security. 
 </p>
 				<p>ID DataWeb provides attribute based access control which is essential for protecting assets.</p>
-				<ul class="front-page-list">
-					<li>•&nbsp;  Share digital assets online with enhanced control</li>
-					<li>•&nbsp;  Federate credentials across ecosystems</li>
-					<li>•&nbsp;  Invoke higher level of assurance credentials as needed</li>
+				<ul class=" larger-list">
+					<li> Share digital assets online with enhanced control</li>
+					<li> Federate credentials across ecosystems</li>
+					<li> Invoke higher level of assurance credentials as needed</li>
 				</ul>
             </div>
 			<div class="col-sm-6">

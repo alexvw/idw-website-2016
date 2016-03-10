@@ -32,10 +32,10 @@
 					src="/img/leadship/atarbox.png" alt="Andy Tarbox">
 					</div>
 					<div class="col-sm-6">
-						<h3>
+						<p>
 						Prior to joining IDW, Andy was Chief Strategist for Wave Systems, EVP of Operations for PRIVO, an executive for Booz Allen Hamilton, and Global VP for Smart Card Technology Group at MasterCard.    
 
-						</h3>
+						</p>
 						
 					</div>
 				</div>

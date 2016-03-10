@@ -85,7 +85,10 @@
 		<div class="row">
 			<div class="col-sm-12" style="text-align:center;">
 			<h2><i>enabling security, privacy, convenience and savings</i></h2>
-			<br/><br/>
+			<br/><br/><br><br>
+			<h2>"Forecast for cloud service brokerage will almost double in size over four years to reach $160 billion by 2018."</h2>
+																				<p><i>-Gartner</i></p>
+			<br>
 			</div>
 		</div>
 	
@@ -164,42 +167,42 @@
 			<div class="col-sm-3">
 				<h3>Relying Parties</h3>
 				<ul class="front-page-list">
-					<li>✓&nbsp; Deploy in Hours</li>
-					<li>✓&nbsp; Flexibility</li>
-					<li>✓&nbsp; Choice</li>
-					<li>✓&nbsp; Cost Savings</li>
-					<li>✓&nbsp; Security</li>
-					<li>✓&nbsp; Privacy</li>
-					<li>✓&nbsp; Preferences</li>
-					<li>✓&nbsp; Credential Federation</li>
+					<li> Deploy in Hours</li>
+					<li> Flexibility</li>
+					<li> Choice</li>
+					<li> Cost Savings</li>
+					<li> Security</li>
+					<li> Privacy</li>
+					<li> Preferences</li>
+					<li> Credential Federation</li>
 				</ul>
 			</div>
 			
 			<div class="col-sm-3">
 				<h3>Identity Providers</h3>
 				<ul class="front-page-list">
-					<li>✓&nbsp; Cost Savings</li>
-					<li>✓&nbsp; New Revenue</li>
-					<li>✓&nbsp; Identity Proofing</li>
-					<li>✓&nbsp; Credential Federation</li>
+					<li> Cost Savings</li>
+					<li> New Revenue</li>
+					<li> Identity Proofing</li>
+					<li> Credential Federation</li>
 
 				</ul>
 			</div>
 			<div class="col-sm-3">
 				<h3>Attributes Providers</h3>
 				<ul class="front-page-list">
-					<li>✓&nbsp; New Revenue</li>
-					<li>✓&nbsp; Sales Channel</li>
-					<li>✓&nbsp; Lower Cost of Sales</li>
+					<li> New Revenue</li>
+					<li> Sales Channel</li>
+					<li> Lower Cost of Sales</li>
 
 				</ul>
 			</div>
 			<div class="col-sm-3">
 				<h3>Customers</h3>
 				<ul class="front-page-list">
-					<li>✓&nbsp; Convenience</li>
-					<li>✓&nbsp; Security</li>
-					<li>✓&nbsp; Privacy</li>
+					<li> Convenience</li>
+					<li> Security</li>
+					<li> Privacy</li>
 
 				</ul>
 			</div>
