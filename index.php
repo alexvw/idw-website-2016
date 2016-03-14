@@ -87,7 +87,7 @@
 			<h2><i>enabling security, privacy, convenience and savings</i></h2>
 			<br/><br/><br><br>
 			<h2>"Forecast for cloud service brokerage will almost double in size over four years to reach $160 billion by 2018."</h2>
-																				<p><i>-Gartner</i></p>
+																				<p><i>- Gartner</i></p>
 			<br>
 			</div>
 		</div>

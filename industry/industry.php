@@ -58,8 +58,8 @@
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/education.png">
-				<br>
-				<a href="contact.php">
+				<br><br>
+				<a href="/contact.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
 				</a>
 			
@@ -84,8 +84,8 @@
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/entertainment.png">
-				<br>
-				<a href="contact.php">
+				<br><br>
+				<a href="/contact.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
 				</a>
 			</div>
@@ -110,8 +110,8 @@
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/health.png">
-				<br>
-				<a href="contact.php">
+				<br><br>
+				<a href="/contact.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
 				</a>
 			</div>
@@ -135,8 +135,8 @@
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/energy.png">
-				<br>
-				<a href="contact.php">
+				<br><br>
+				<a href="/contact.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
 				</a>
 			</div>
@@ -161,8 +161,8 @@
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/finance.png">
-				<br>
-				<a href="contact.php">
+				<br><br>
+				<a href="/contact.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
 				</a>
 			</div>
@@ -187,8 +187,8 @@
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/government.png">
-				<br>
-				<a href="contact.php">
+				<br><br>
+				<a href="/contact.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
 				</a>
 			</div>
@@ -212,9 +212,9 @@
 				</ul>
             </div>
 			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/entertainment.png">
-				<br>
-				<a href="contact.php">
+				<img class="industry-section-img" src="/img/sm/retail.png">
+				<br><br>
+				<a href="/contact.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
 				</a>
 			</div>
@@ -238,9 +238,9 @@
 				</ul>
             </div>
 			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/entertainment.png">
-				<br>
-				<a href="contact.php">
+				<img class="industry-section-img" src="/img/sm/technology.png">
+				<br><br>
+				<a href="/contact.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
 				</a>
 			</div>
@@ -264,9 +264,9 @@
 				</ul>
             </div>
 			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/entertainment.png">
-				<br>
-				<a href="contact.php">
+				<img class="industry-section-img" src="/img/sm/transport.png">
+				<br><br>
+				<a href="/contact.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
 				</a>
 			</div>

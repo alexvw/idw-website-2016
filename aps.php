@@ -54,7 +54,8 @@
 				<br><br>
 				<p><b>We are adding new services every day using our open standard APIs.</b></p>
 				<br>
-				<a class="btn btn-lg btn-idw btn-default btn-block" href="/join.php">Join our Network</a>
+				<a class="btn btn-lg btn-idw btn-default btn-block btn-weird" href="/join.php">Join our Network</a>
+				
 				
             </div>
         </div>

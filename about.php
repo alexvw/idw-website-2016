@@ -34,7 +34,7 @@
         <div class="row">
             <div class="col-lg-12">
 				<h2>About Us</h2>
-				<p>IDW provides <b>Cloud Broker Services for Identity Verification and Federation</b> to enterprises and their communities.</p>
+				<p>IDW provides <b style="font-size:120%;">Cloud Broker Services for Identity Verification and Federation</b> to enterprises and their communities.</p>
 				<br>
 				<h3>ID Dataweb Story</h3>
 				<p>Founded in 2011, ID Dataweb was spinout of Criterion Systems, a premier cybersecurity professional 

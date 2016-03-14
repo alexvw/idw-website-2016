@@ -28,14 +28,14 @@
 				<br><br>
 				<h2><b>What is the AXN?<b></h2>
 				<br>
-                <p>Cloud Broker Service for Identity Verification and Federation. <br>
-AXN enables enhanced security, privacy, convenience and savings.<br>
-<br>
-We transform the challenge of identity into an opportunity for growth.
+                <p><b style="font-size:120%;">Cloud Broker Service for Identity Verification and Federation</b> 
+				 enabled through the <b style="font-size:120%">Attribute Exchange Network (AXN)</b><br>
+<i>AXN enables enhanced security, privacy, convenience and savings</i><br>
+
 </p><br>
 
 				<p>Today every company, association and agency is challenged when it comes to digital identity. 
-				The AXN enables benefits for your organization.</p><br><br>
+				The AXN enables benefits for your organization.</p><br>
 				<ul class="front-page-list">
 					<li> Reduces identity verification costs and generates revenue</li>
 					<li> Transforms your business using federation and secure web services</li>
@@ -57,7 +57,7 @@ We transform the challenge of identity into an opportunity for growth.
 				<a class="btn btn-lg btn-idw btn-default btn-block  btn-weird" href="/resources.php#whitepapers">Download Whitepaper</a>
 				
             </div>
-        </div><br><br>
+        </div>
         <!-- Content Row -->
         <div class="row">
             <div class="col-lg-12">
