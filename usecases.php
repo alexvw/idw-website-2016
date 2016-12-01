@@ -37,9 +37,7 @@
 			<p>
 			Learn more about how the AXN service is mitigating threats across the industry while providing enhanced security, 
 			privacy, convenience and cost savings for our customers.  Check out our many use cases, and if you have one which 
-			is not listed, please <a class="contact-us-link" href="contact.php">
-							<button class="btn btn-idw" >Contact Us</button>
-							</a>
+			is not listed, please<a class="contact-us-link" href="contact.php">contact us.</a>
 			</p>
 			<br><br><br>
 			<div class="row">

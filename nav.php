@@ -81,14 +81,14 @@
                                 <a href="/faq.php">FAQ</a>
                             </li>
 							<li>
-                                <a href="/resources.php#pressreleases">Press Releases</a>
+                                <a href="/=pressreleases.php">Press Releases</a>
                             </li>
 							
                             <li>
                                 <a href="/usecases.php">Use Cases</a>
                             </li>
 							<li>
-                                <a href="/resources.php#whitepapers">Whitepapers</a>
+                                <a href="/whitepapers.php">Whitepapers</a>
                             </li>
                         </ul>
                     </li>
@@ -119,6 +119,10 @@
         </div>
         <!-- /.container -->
     </nav>
-	<nav id="fixed-contact"><a class="contact-us-link" href="contact.php"><span class="phone-number-hide">(123) 456-7890</span><button class="btn btn-idw btn-border btn-white" >Contact Us</button> 
-		</a>
+	<nav id="fixed-contact"><a class="contact-us-link" href="contact.php">
+	<a id="phone-number-hide"href="tel:11234567890"> (123) 456-7890</a>
+	<a href="/contact.php">
+		<button id="fixed-contact-btn" class="btn btn-idw btn-border btn-white" >Contact Us</button>
+	</a>
+	
 	</nav>

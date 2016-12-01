@@ -16,7 +16,8 @@ ini_set('display_errors', 'On');
 // check if fields passed are empty
 
 	if(
-		empty($_POST['message'])  	
+		empty($_POST['message']) ||
+			empty($_POST['email'])
 	)
    {
    echo "Insufficient Parameters";

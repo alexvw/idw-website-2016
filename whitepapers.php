@@ -21,72 +21,92 @@
         </div>
         <!-- /.row -->
 
-        <!-- White Paper  One -->
+        <!-- white paper object -->
         <div class="row">
-            <div class="col-md-5">
-                <h3>White Paper  One</h3>
-                <h4>Subheading</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
-                <a class="btn btn-primary" href="single-bio.php">View White Paper </i></a>
+            <div class="col-sm-4">
+            	<div class="white-paper-tile">
+            		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
+	                <h3>White Paper One</h3>
+	                <hr>
+	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem 
+	                expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur 
+	                quos perspiciatis atque eveniet unde.</p>
+	                <a class="btn btn-idw whitepaper-download-btn" href="single-bio.php">
+	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+				</div>
+            </div>
+            <div class="col-sm-4">
+            	<div class="white-paper-tile">
+            		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
+	                <h3>White Paper One</h3>
+	                <hr>
+	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem 
+	                expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur 
+	                quos perspiciatis atque eveniet unde.</p>
+	                <a class="btn btn-idw whitepaper-download-btn" href="single-bio.php">
+	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+				</div>
+            </div>
+            <div class="col-sm-4">
+            	<div class="white-paper-tile">
+            		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
+	                <h3>White Paper One</h3>
+	                <hr>
+	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem 
+	                expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur 
+	                quos perspiciatis atque eveniet unde.</p>
+	                <a class="btn btn-idw whitepaper-download-btn" href="single-bio.php">
+	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+				</div>
             </div>
         </div>
         <!-- /.row -->
-
-        <hr>
-
-        <!-- White Paper  Two -->
+        
         <div class="row">
-            <div class="col-md-5">
-                <h3>White Paper  Two</h3>
-                <h4>Subheading</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, odit velit cumque vero doloremque repellendus distinctio maiores rem expedita a nam vitae modi quidem similique ducimus! Velit, esse totam tempore.</p>
-                <a class="btn btn-primary" href="single-bio.php">View White Paper </i></a>
+            <div class="col-sm-4">
+            	<div class="white-paper-tile">
+            		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
+	                <h3>White Paper One</h3>
+	                <hr>
+	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem 
+	                expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur 
+	                quos perspiciatis atque eveniet unde.</p>
+	                <a class="btn btn-idw whitepaper-download-btn" href="single-bio.php">
+	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+				</div>
+            </div>
+            <div class="col-sm-4">
+            	<div class="white-paper-tile">
+            		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
+	                <h3>White Paper One</h3>
+	                <hr>
+	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem 
+	                expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur 
+	                quos perspiciatis atque eveniet unde.</p>
+	                <a class="btn btn-idw whitepaper-download-btn" href="single-bio.php">
+	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+				</div>
+            </div>
+            <div class="col-sm-4">
+            	<div class="white-paper-tile">
+            		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
+	                <h3>White Paper One</h3>
+	                <hr>
+	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem 
+	                expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur 
+	                quos perspiciatis atque eveniet unde.</p>
+	                <a class="btn btn-idw whitepaper-download-btn" href="single-bio.php">
+	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+				</div>
             </div>
         </div>
         <!-- /.row -->
-
-        <hr>
-
-        <!-- White Paper  Three -->
-        <div class="row">
-            <div class="col-md-5">
-                <h3>White Paper  Three</h3>
-                <h4>Subheading</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, temporibus, dolores, at, praesentium ut unde repudiandae voluptatum sit ab debitis suscipit fugiat natus velit excepturi amet commodi deleniti alias possimus!</p>
-                <a class="btn btn-primary" href="single-bio.php">View White Paper </i></a>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <hr>
-
-        <!-- White Paper  Four -->
-        <div class="row">
-
-            <div class="col-md-5">
-                <h3>White Paper  Four</h3>
-                <h4>Subheading</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, quidem, consectetur, officia rem officiis illum aliquam perspiciatis aspernatur quod modi hic nemo qui soluta aut eius fugit quam in suscipit?</p>
-                <a class="btn btn-primary" href="single-bio.php">View White Paper </i></a>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <hr>
-
-        <!-- White Paper  Five -->
-        <div class="row">
-            <div class="col-md-5">
-                <h3>White Paper  Five</h3>
-                <h4>Subheading</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, quo, minima, inventore voluptatum saepe quos nostrum provident ex quisquam hic odio repellendus atque porro distinctio quae id laboriosam facilis dolorum.</p>
-                <a class="btn btn-primary" href="#">View White Paper </i></a>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <hr>
-
         <hr>
 
 

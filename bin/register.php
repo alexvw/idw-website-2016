@@ -23,11 +23,12 @@ $cookie_name = "hasShared";
 // check if fields passed are empty
 
 if(
-	empty($_POST['name'])  		||
-	empty($_POST['organization']) 		||
-	empty($_POST['title'])		||
-	empty($_POST['phone']) 		||
-	empty($_POST['email'])
+	empty($_POST['n'])  		||
+	empty($_POST['o']) 		||
+	empty($_POST['t'])		||
+	empty($_POST['p']) 		||
+	empty($_POST['e'])		||
+	empty($_POST['redir'])
    )
    {
    echo "Insufficient Parameters";
@@ -107,8 +108,11 @@ echo "<br>".'SDK Ready. Preparing Client...';
 	
 	$cookie_value = urlencode($name . " / " . $email_address);
 	
-	setcookie($cookie_name, $cookie_value, time() + (86400 * 60), "/"); // 86400 = 1 day, so two months
+	setcookie($cookie_name, $cookie_value, time() + (86400 * 1), "/"); // 86400 = 1 day, so two months //TODO: PUT back to 60 days
 	
 	echo "<br>".'Cookie Set';
 	
+	
 ?>
+
+window.location.replace("<?php echo $redir; ?>");

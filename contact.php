@@ -33,9 +33,9 @@
 					<br><hr>
 					<h3>Contact Details</h3>
                 <p>
-                    8330 Boone Blvd 
-					<br>Suite 400<br>
-					Vienna, Virginia<br>
+                    ID DataWeb Headquarters<br>
+                    8330 Boone Blvd., Suite 400<br>
+					Vienna, VA 22182<br>
                 </p><br>
                 <p><i class="fa fa-phone"></i> 
                     <abbr title="Phone">Phone</abbr>: (123) 456-7890</p>
@@ -63,9 +63,9 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-6"><h3>Interested in learning more about our AXN Service?  <br><br>
-Send us your information and we will contact you shortly.
-</h3>
+			<div class="col-md-6"><h4>Interested in learning more about our company or our AXN service?</h4>
+			<h4>Provide us your information and submit the form below, and we will contact you shortly</h4>
+
                 <form name="sentMessage" id="contactForm" novalidate>
                     <div class="control-group form-group">
                         <div class="controls">
@@ -100,7 +100,7 @@ Send us your information and we will contact you shortly.
                     </div>
                     <div id="success"></div>
                     <!-- For success/fail messages -->
-                    <button type="submit" class="btn btn-primary">Send Message</button>
+                    <button type="submit" class="btn btn-primary">Submit</button>
                 </form><br><br>
 			</div>
         </div>
