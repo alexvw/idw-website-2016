@@ -21,19 +21,17 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="fill" style="background-image:url('img/smart.jpg');"></div>
+                <div class="fill" style="background-image:url('img/home.jpg');"></div>
                 <div class="carousel-caption" style="color:black;">
-                    <h2 style="/*background-color:rgba(255,255,255,0.6);*/font-weight:700;padding:20px;text-shadow:none;">
-					Cloud Broker Services for <br/>
-					Identity Verification and Federation
-					
-					
-					</h2>
+                    <h1 class="index-main-carousel">
+					Cloud Broker Services <br/>
+					<span>for Identity Security</span>
+					</h1>
 					<br><br><br>
 					<div class="caption-actions">
-						<a href="contact.php">
+						<a href="axn-overview.php">
 							<button class="btn btn-lg btn-idw" style="float:right;">
-								Contact Us
+								Learn More
 							</button>
 						</a>
 					</div>
@@ -155,62 +153,66 @@
 	</div>-->
 	<br>
 	<!-- Second container -->
+	<div class="grey-strip">
+		<div class="container">
+			
+			<div class="row">
+				<div class="col-sm-12" style="text-align:center;">
+				<h2>Our constituents benefit in many ways…</h2>
+				</div>
+			</div>
+			<br><br>
+			<div class="row">
+				<div class="col-sm-3">
+					<h4>Customers</h4>
+					<ul class="front-page-list">
+						<li> Agile</li>
+						<li> Flexible</li>
+						<li> Savings</li>
+						<li> Secure</li>
+						<li> Compliant</li>
+						<li> Credential Federation</li>
+					</ul>
+				</div>
+				<div class="col-sm-3">
+					<h4>Identity Providers</h4>
+					<ul class="front-page-list">
+						<li> Savings</li>
+						<li> New Revenue</li>
+						<li> Identity Proofing</li>
+						<li> Credential Federation</li>
+
+					</ul>
+				</div>
+				<div class="col-sm-3">
+					<h4>Attributes Providers</h4>
+					<ul class="front-page-list">
+						<li> New Revenue</li>
+						<li> Sales Channel</li>
+						<li> Lower Cost of Sales</li>
+
+					</ul>
+				</div>
+				<div class="col-sm-3">
+					<h4>Users</h4>
+					<ul class="front-page-list">
+						<li> Convenience</li>
+						<li> Secure</li>
+						<li> Compliant</li>
+						<li> User Console</li>
+
+					</ul>
+					
+				</div>
+			</div>
+			<br><br>
+		</div>
+	</div>
 	<div class="container">
-		
 		<div class="row">
 			<div class="col-sm-12" style="text-align:center;">
-			<h2>Our constituents benefit in many ways…</h2>
-			</div>
-		</div>
-		<br><br>
-		<div class="row">
-			<div class="col-sm-3">
-				<h3>Relying Parties</h3>
-				<ul class="front-page-list">
-					<li> Deploy in Hours</li>
-					<li> Flexibility</li>
-					<li> Choice</li>
-					<li> Cost Savings</li>
-					<li> Security</li>
-					<li> Privacy</li>
-					<li> Preferences</li>
-					<li> Credential Federation</li>
-				</ul>
-			</div>
-			
-			<div class="col-sm-3">
-				<h3>Identity Providers</h3>
-				<ul class="front-page-list">
-					<li> Cost Savings</li>
-					<li> New Revenue</li>
-					<li> Identity Proofing</li>
-					<li> Credential Federation</li>
-
-				</ul>
-			</div>
-			<div class="col-sm-3">
-				<h3>Attributes Providers</h3>
-				<ul class="front-page-list">
-					<li> New Revenue</li>
-					<li> Sales Channel</li>
-					<li> Lower Cost of Sales</li>
-
-				</ul>
-			</div>
-			<div class="col-sm-3">
-				<h3>Customers</h3>
-				<ul class="front-page-list">
-					<li> Convenience</li>
-					<li> Security</li>
-					<li> Privacy</li>
-
-				</ul>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12" style="text-align:center;">
-			
-			<h2>How it works</h2>
+			<br>
+			<h1>How it works</h1>
 			<br/><br/>
 			</div>
 		</div>
@@ -218,18 +220,20 @@
 			<div class="col-md-6 col-sm-12">
 				<div class="video-center">
 					<iframe width="460" height="315" src="https://www.youtube.com/embed/8sq7o4-Gm4U?showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<h3>Watch a Video</h3>
 				</div>
 			</div>
 			<div class="col-md-6 col-sm-12">
 				<div class="video-center">
 					<iframe width="460" height="315" src="https://www.youtube.com/embed/8sq7o4-Gm4U?showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<h3>View a Demo</h3>
 				</div>
 			</div>
 		</div>
 		<!--
 		
 		-->
-		<br><br><br><br><br>
+		<br><br><br>
         <hr>
 		<!--
 		<div class="row">
@@ -257,7 +261,7 @@
                 </div>
             </div>
         </div><br>-->
-		<br><br>
+		
         <!-- Portfolio Section -->
         <div class="row">
 			<div class="col-xs-12">
@@ -266,60 +270,60 @@
 				</div>
 			</div>
 		</div>
-		<br>
+		
 		<div class="row">
             <div class="col-md-4 col-sm-6 list-object">
                 <a href="/industry/industry.php#education">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/education.png" alt="">
-					<h4>Education<br></h4>
+					<h3>Education<br></h3>
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 list-object">
                 <a href="industry/industry.php#entertainment">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/entertainment.png" alt="">
-					<h4>Entertainment<br></h4>
+					<h3>Entertainment<br></h3>
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 list-object">
                 <a href="/industry/industry.php#energy">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/energy.png" alt="">
-					<h4>Energy<br></h4>
+					<h3>Energy<br></h3>
                 </a>
             </div>
 			<div class="col-md-4 col-sm-6 list-object">
                 <a href="/industry/industry.php#finance">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/finance.png" alt="">
-					<h4>Finance<br></h4>
+					<h3>Finance<br></h3>
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 list-object">
                 <a href="/industry/industry.php#health">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/health.png" alt="">
-					<h4>Healthcare<br></h4>
+					<h3>Healthcare<br></h3>
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 list-object">
                 <a href="/industry/industry.php#government">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/government.png" alt="">
-					<h4>Government<br></h4>
+					<h3>Government<br></h3>
                 </a>
             </div>
 			<div class="col-md-4 col-sm-6 list-object">
                 <a href="/industry/industry.php#retail">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/retail.png" alt="">
-					<h4>Retail<br></h4>
+					<h3>Retail<br></h3>
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 list-object">
                 <a href="/industry/industry.php#technology">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/technology.png" alt="">
-					<h4>Technology<br></h4>
+					<h3>Technology<br></h3>
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 list-object">
                 <a href="/industry/industry.php#transportation">
                     <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/transport.png" alt="">
-					<h4>Transportation<br></h4>
+					<h3>Transportation<br></h3>
                 </a>
             </div>
         </div>
@@ -362,18 +366,6 @@
 		</div>
         <!-- /.row -->
 <br><br>
-        <hr>
-		<br>
-		<!-- Call to Action Section -->
-		<br><br>
-        <div class="well">
-            <div class="row">
-                <div class="col-md-12">
-                    <a class="btn btn-lg btn-idw btn-default btn-block" href="contact.php">Click here to request a demo</a>
-                </div>
-            </div>
-        </div>
-		<br><br>
 
     </div>
     <!-- /.container -->

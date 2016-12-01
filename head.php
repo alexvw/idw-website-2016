@@ -24,7 +24,7 @@
     <meta name="description" content="Identity Verification & Federation Services enabling Security, Privacy, Convenience and Savings.">
     <meta name="author" content="avanderwoude">
 
-    <title>ID/DataWeb</title>
+    <title>ID DataWeb</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -32,7 +32,6 @@
     <!-- Custom CSS -->
     <link href="/css/mb-base.css" rel="stylesheet">
     <link href="/css/idw-home.css" rel="stylesheet">
-    <link href="/css/odometer-theme.css" rel="stylesheet">
 	
 	<!-- Custom Fonts -->
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>

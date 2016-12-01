@@ -15,7 +15,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
 					<li class="dropdown">
-                        <a href="/axn-overview.php">AXN Service</a>
+                        <a href="/axn-overview.php">Services</a>
                     </li>
 					<li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industries <b class="caret"></b></a>
@@ -113,15 +113,12 @@
                             </li>
                         </ul>
                     </li>
-					<li>
-                        <a class="contact-us-link" href="contact.php">
-							<button class="btn btn-idw" >Contact Us</button>
-							</a>
-                    </li>
-                    
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container -->
     </nav>
+	<nav id="fixed-contact"><a class="contact-us-link" href="contact.php"><span class="phone-number-hide">(123) 456-7890</span><button class="btn btn-idw btn-border btn-white" >Contact Us</button> 
+		</a>
+	</nav>

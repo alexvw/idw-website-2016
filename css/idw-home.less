@@ -19,8 +19,8 @@ a {
 }
 
 header.carousel{
-height:55%;
-    min-height: 400px;
+	height:65%;
+    min-height: 440px;
 }
 
 body {
@@ -86,20 +86,10 @@ font-size:16px;
 background-color:@idwblue;
 color: rgb(230, 230, 230);
 font-size: 20px;
-padding: 7px 19px;
-text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
--webkit-border-radius: 8px;
--moz-border-radius: 8px;
-border-radius: 8px;
-background: rgb(43, 112, 173);
-background: -moz-linear-gradient(90deg, rgb(43, 112, 173) 30%, rgb(102, 163, 188) 86%);
-background: -webkit-linear-gradient(90deg, rgb(43, 112, 173) 30%, rgb(102, 163, 188) 86%);
-background: -o-linear-gradient(90deg, rgb(43, 112, 173) 30%, rgb(102, 163, 188) 86%);
-background: -ms-linear-gradient(90deg, rgb(43, 112, 173) 30%, rgb(102, 163, 188) 86%);
-background: linear-gradient(0deg, rgb(43, 112, 173) 30%, rgb(102, 163, 188) 86%);
--webkit-box-shadow: 0px 3px 9px rgba(50, 50, 50, 0.59);
--moz-box-shadow:    0px 3px 9px rgba(50, 50, 50, 0.59);
-box-shadow:         0px 3px 9px rgba(50, 50, 50, 0.59);
+padding: 9px 22px;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+border-radius: 2px;
 
 }
 .btn-idw:hover{
@@ -121,18 +111,25 @@ text-decoration:underline;
 	}
 	
 .carousel-caption {
-    top: 40px;
+    top: 30%;
     text-align: left;
     text-shadow: 4px 4px 9px rgba(0,0,0,.7);
-	width:56%;
-}
-.carousel-caption h2{
-	font-weight:300;
-	font-size:36px;
+	width:84%;
+	left:8%;
 }
 .caption-actions{
 	font-size:16px;
 }
+.index-main-carousel{
+	text-align:center;
+	font-weight:800;
+	color:white;
+	font-size:80px;
+	text-shadow:none;
+}
+.index-main-carousel span{
+font-size:50%;
+font-weight:400;}
 
 .advertising-item{
 text-align:center;
@@ -178,6 +175,10 @@ font-weight:200;
 		#stolen-count{
 		font-size:120px;
 		}
+		
+		.index-main-carousel{
+		font-size:63px;
+		}
     }
 
  @media only screen and (max-width : 992px) {
@@ -194,22 +195,15 @@ font-weight:200;
 		font-size:80px;
 		}
 		
-		.carousel-caption h2{
-			font-weight:300;
-			font-size:28px;
-		}
     }
 	
 @media only screen and (max-width : 768px) {
-		.carousel-caption h2{
-			font-weight:300;
-			font-size:22px;
+		.index-main-carousel{
+		font-size:40px;
 		}
-		
+		header.carousel{
+		height:40%;}
     }
-	.carousel-caption.dark{
-			color:black;
-		}
 	
 .navbar-brand {
     padding: 15px 7px;
@@ -321,13 +315,16 @@ font-size:1.3em;
 	.front-page-list{
 	list-style-type:none;
 	}
+	
 	.front-page-list li:before {
 		content: "\2713";
 		float: left; 
 		margin-left: -20px;
 	}
+	.front-page-list li{
+	
+	}
 	.front-page-list li, .larger-list li{
-	font-size:140%;
 	font-weight:400;
 	}
 	.btn-weird{
@@ -352,7 +349,38 @@ font-size:1.3em;
 	}
 	.use-case-download{
 	padding:8px;
-	width:100%;
+	width:50%;
+	margin:auto;
 	font-size:150%;
 	}
+	
+	.btn-border{
+	border:3px solid @idwblue;
+	background-color:transparent;
+	color:@idwdarkblue;
+	font-weight:600;
+	
+padding: 5px 22px;
+	}
+	
+	.grey-strip{
+	background-color:whitesmoke;
+	border-top:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	}
+	
+	.phone-number-hide{
+	display:none;
+	padding: 10px;
+	background-color:@idwdarkblue;
+	color:@idwdarkaccent;
+	}
+	#fixed-contact{
+	position:fixed;
+	bottom:0px;
+	right:5%;
+	z-index:999999999999999999;
+	}
+	.btn-white{
+	background-color:white;}
 	

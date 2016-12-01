@@ -106,6 +106,16 @@
 					<br>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12 ap-list-object">
+					<div class="ap-img-container"><img class="img-responsive img-hover ap-logo-img" src="img/ap/db.jpg" alt="DB Logo"></div>
+					<!--<h2>Daon</h2>-->
+					<p>Dun & Bradstreet (NYSE: DNB) grows the most valuable relationships in business. 
+					By uncovering truth and meaning from data, we connect our customers with the prospects, 
+					suppliers, clients and partners that matter most, and have since 1841. Nearly ninety 
+					percent of the Fortune 500, and companies of every size around the world, rely on our 
+					data, insights and analytics.</p>
+					<br>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12 ap-list-object">
 					<div class="ap-img-container"><img class="img-responsive img-hover ap-logo-img" src="img/ap/equifax.png" alt="Equifax Logo"></div>
 					<!--<h2>Equifax</h2>-->
 					<p>Equifax creates and delivers unparalleled customized insights that enrich both the performance of businesses and the 
@@ -185,6 +195,15 @@
 					information for good.  Our mission is to help people everywhere access the opportunities that lead to a higher quality of life. By 
 					helping organizations optimize their risk-based decisions and enabling consumers to understand and manage their personal information, 
 					we empower both to take their destinies into their own hands.</p>
+					<br>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12 ap-list-object">
+					<div class="ap-img-container"><img class="img-responsive img-hover ap-logo-img" src="img/ap/trulioo.jpg" alt="Trulioo Logo"></div>
+					<!--<h2>Daon</h2>-->
+					<p>Trulioo is a leading global ID verification company providing advanced analytics based on 
+					traditional information such as public records, credit files and government data as well as 
+					alternative sources including social login providers, ad networks, mobile applications, 
+					e-commerce websites and social networks.</p>
 					<br>
 				</div>
 			</div>

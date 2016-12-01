@@ -37,7 +37,7 @@
 				<p>IDW provides <b style="font-size:120%;">Cloud Broker Services for Identity Verification and Federation</b> to enterprises and their communities.</p>
 				<br>
 				<h3>ID Dataweb Story</h3>
-				<p>Founded in 2011, ID Dataweb was spinout of Criterion Systems, a premier cybersecurity professional 
+				<p>Founded in 2011, ID Dataweb was spun out of Criterion Systems, a premier cybersecurity professional 
 				services company for the government.  Headquartered in Northern Virginia, ID DataWeb’s Attribute 
 				Exchange Network (AXN) provides identity services globally.</p>
 				<br>
@@ -46,7 +46,7 @@
 				identity federation. The system enabled users to reduce the number of credentials needed 
 				to create and log into accounts online. Upon completion of the Google project, 
 				IDW realized that a cloud-based transaction hub would enable a powerful model 
-				for identity federation and independently created  the AXN managed service.</p>
+				for identity federation and independently created the AXN managed service.</p>
 				<br>
 				<h3>NSTIC Experience</h3>
 				<p class="larger">In 2012, IDW’s affiliate, Criterion Systems, was awarded and successfully 

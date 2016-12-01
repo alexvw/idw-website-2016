@@ -19,12 +19,12 @@
 		<div class="row footer-links">
 			<div class="col-sm-3 col-xs-6">
 				<h3>INDUSTRIES</h3>
-				<br><a href="/industry/education.php">Education</a>
-				<br><a href="/industry/entertainment.php">Entertainment</a>
-				<br><a href="/industry/financial.php">Financial</a>
-				<br><a href="/industry/government.php">Government</a>
-				<br><a href="/industry/healthcare.php">Healthcare</a>
-				<br><a href="/industry/transportation.php">Transportation</a>
+				<br><a href="/industry/industry.php#education">Education</a>
+				<br><a href="/industry/industry.php#entertainment">Entertainment</a>
+				<br><a href="/industry/industry.php#financial">Financial</a>
+				<br><a href="/industry/industry.php#government">Government</a>
+				<br><a href="/industry/industry.php#healthcare">Healthcare</a>
+				<br><a href="/industry/industry.php#transportation">Transportation</a>
 				
 			</div>
 			<div class="col-sm-3 col-xs-6">

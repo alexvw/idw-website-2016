@@ -37,19 +37,19 @@
         <div class="row">
             <div class="col-lg-12">
                 <p>  
-				Depending on the level or access and controls required to access data and information, 
+				Depending on the level of access and controls required to access data and information, 
 				the type and level of credential used varies. Our Identity Provider partners realize 
 				significant cost savings while also generating new revenue opportunities through the AXN service.
 				</p>
 				<p>
-				AXN provides flexibility, credential reuse, increased privacy, and convenience 
-				with one contract to source attribute verification, biometric, and device ID 
-				services offering a choice of Identity Providers already integrated to our network.
+				AXN provides flexibility, credential reuse, increased privacy, and convenience with one contract 
+				to source attribute verification, biometric, and device ID services offering a choice of 
+				Identity Providers already integrated to our network.
 				</p>
 				<h2>Identity Partners are Growing</h2>
-				<p>AXN provides flexibility in using social, corporate and government credentials 
-				to access webservices and information.  Our services supports many protocols including; 
-				SAML, OpenID Connect, WSFED and other standard technologies.
+				<p>AXN provides elasticity in using social, corporate and government (PIV, CAC) credentials 
+				to access web services and information. Our service supports industry standard protocols 
+				including; SAML, OpenID Connect, WSFED and other standard technologies.
 				</p>
             </div>
         </div>

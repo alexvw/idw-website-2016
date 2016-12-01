@@ -63,8 +63,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-6">
-				<h3>Interested in learning more about the our AXN Service?  <br>
+			<div class="col-md-6"><h3>Interested in learning more about our AXN Service?  <br><br>
 Send us your information and we will contact you shortly.
 </h3>
                 <form name="sentMessage" id="contactForm" novalidate>

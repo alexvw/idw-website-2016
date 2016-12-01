@@ -80,17 +80,6 @@
 					<a href="https://www.linkedin.com/in/linda-vesper-nimmo-562532"><i class="fa fa-linkedin-square fa-2x"></i></a>
 				</a>
             </div>
-			<div class="col-lg-3 col-md-4 col-sm-6 lead-list-object">
-				<a href="/bios/cdonovan.php">
-                    <img class="img-responsive img-hover leadship-glamour-shot" src="/img/leadship/cdonovan.png" alt="Christine Donovan">
-					<h3 class="leader-name">Christine Donovan</h3>
-					<span class="leader-title">VP Product Development</span><br>
-					<a href="mailto:chris.donovan@iddataweb.com"><i class="fa fa-envelope fa-2x"></i></span></a>
-					<a href="https://www.linkedin.com/in/chris-donovan-9620552"><i class="fa fa-linkedin-square fa-2x"></i></a>
-					<a href="https://plus.google.com/118264291893889788643"><i class="fa fa-google-plus-square fa-2x"></i></a>
-				</a>
-            </div>
-			
         </div>
         <!-- /.row -->
 

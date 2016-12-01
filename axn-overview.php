@@ -24,7 +24,9 @@
         <!-- Content Row -->
         <div class="row">
             <div class="col-lg-12">
-				<img src="/img/axn-service-1.png" style="width:100%;" />
+			<div style="text-align:Center;width:100%;">
+				<img src="/img/axn-service-1.png" style="width:70%;" />
+			</div>
 				<br><br>
 				<h2><b>What is the AXN?<b></h2>
 				<br>

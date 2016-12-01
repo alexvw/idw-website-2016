@@ -55,13 +55,14 @@
 					<li> Simplify webservice login</li>
 					<li> Access to affiliate benefits</li>
 				</ul>
+				<br>
+				<a href="/usecases.php">
+					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
+				</a>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/education.png">
-				<br><br>
-				<a href="/contact.php">
-					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				<br><br> 
 			
 			</div>
         </div>
@@ -81,13 +82,14 @@
 					<li> Federate credentials across ecosystems</li>
 					<li> Invoke higher level of assurance credentials as needed</li>
 				</ul>
+				<br>
+				<a href="/usecases.php">
+					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
+				</a>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/entertainment.png">
-				<br><br>
-				<a href="/contact.php">
-					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				<br><br> 
 			</div>
         </div>
 		
@@ -107,13 +109,14 @@
 					<li> Save time completing virtual clipboard with reuse</li>
 					<li> Authorize information exchange between medical professionals </li>
 				</ul>
+				<br>
+				<a href="/usecases.php">
+					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
+				</a>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/health.png">
-				<br><br>
-				<a href="/contact.php">
-					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				<br><br> 
 			</div>
         </div>
 		
@@ -132,13 +135,14 @@
 					<li> Share data and information with enhanced security</li>
 					<li> Authorize information exchange between facilities and contractors</li>
 				</ul>
+				<br>
+				<a href="/usecases.php">
+					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
+				</a>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/energy.png">
-				<br><br>
-				<a href="/contact.php">
-					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				<br><br> 
 			</div>
         </div>
 		
@@ -158,13 +162,14 @@
 					<li> Authorize information exchange between financial institutions</li>
 					<li> Verify and track employees access customer information</li>
 				</ul>
+				<br>
+				<a href="/usecases.php">
+					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
+				</a>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/finance.png">
-				<br><br>
-				<a href="/contact.php">
-					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				<br><br> 
 			</div>
         </div>
 		
@@ -184,13 +189,14 @@
 					<li> Control access realtime using current employment data</li>
 					<li> Improve visibility and tracking of asset access</li>
 				</ul>
+				<br>
+				<a href="/usecases.php">
+					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
+				</a>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/government.png">
-				<br><br>
-				<a href="/contact.php">
-					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				<br><br> 
 			</div>
         </div>
 		
@@ -210,13 +216,14 @@
 					<li> Federate credentials across ecosystems</li>
 					<li> Invoke higher level of assurance credentials as needed</li>
 				</ul>
+				<br>
+				<a href="/usecases.php">
+					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
+				</a>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/retail.png">
-				<br><br>
-				<a href="/contact.php">
-					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				<br><br> 
 			</div>
         </div>
 		
@@ -236,13 +243,14 @@
 					<li> Federate credentials across ecosystems</li>
 					<li> Invoke higher level of assurance credentials as needed</li>
 				</ul>
+				<br>
+				<a href="/usecases.php">
+					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
+				</a>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/technology.png">
-				<br><br>
-				<a href="/contact.php">
-					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				<br><br> 
 			</div>
         </div>
 		
@@ -262,13 +270,14 @@
 					<li> Federate credentials across ecosystems</li>
 					<li> Invoke higher level of assurance credentials as needed</li>
 				</ul>
+				<br>
+				<a href="/usecases.php">
+					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
+				</a>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/transport.png">
-				<br><br>
-				<a href="/contact.php">
-					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				<br><br> 
 			</div>
         </div>
 		
