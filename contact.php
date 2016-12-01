@@ -100,7 +100,7 @@
                     </div>
                     <div id="success"></div>
                     <!-- For success/fail messages -->
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <button type="submit" class="btn btn-primary btn-idw">Submit</button>
                 </form><br><br>
 			</div>
         </div>

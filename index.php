@@ -327,6 +327,27 @@
                 </a>
             </div>
         </div>
+        
+        <br><br><div class="row">
+			<div class="col-xs-12">
+				<div class="stolen">
+					<h1>Our Global Reach<h1>
+				</div>
+			</div>
+		</div>
+		<br>
+		<div class="quotes-container">
+			<div class="row">
+				<div class="col-sm-6">
+					<img class="img-responsive col-fill" src="img/global.jpg" alt="">
+				</div>
+				<div class="col-sm-6">
+					<p>Today, we are supporting customers in 35 countries and growing. Using a 
+					variety of methods and attribute services, our customers are able to improve
+					online identity security and privacy using the Attribute Exchange Network.</p>
+				</div>
+			</div>
+		</div>
 		
 		<br><br><div class="row">
 			<div class="col-xs-12">
@@ -340,10 +361,10 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="single-quote">
-						<p class="quote-text">“One of the key use cases with ID DataWeb is how we integrate into your service to enable federated login 
+						<p class="quote-text">"One of the key use cases with ID DataWeb is how we integrate into your service to enable federated login 
 						and how we leverage the network attribute providers so we can verify information about who a consumer is to satisfy KYC rules.<br><br>
 						At the same time, we want to give comfort to our clients so that we can distribute communication and new services 
-						through a digital channel and avoid privacy issues.”
+						through a digital channel and avoid privacy issues."
 						</p><br>
 						<h4 class="quote-author">
 						- Rob K., Broadridge Communications
@@ -352,10 +373,10 @@
 				</div>
 				<div class="col-sm-6">
 					<div class="single-quote">
-						<p class="quote-text">“The AXN brings in more choice and innovation in the way you can access credentials, 
+						<p class="quote-text">"The AXN brings in more choice and innovation in the way you can access credentials, 
 						online services through service providers, and when doing business commerce with DoD or any other state or 
 						local agency.  <br><br>It’s important to have a brokered exchange to federate identities among the relying parties to 
-						lower costs and enhance convenience, security and privacy.”
+						lower costs and enhance convenience, security and privacy."
 						</p><br>
 						<h4 class="quote-author">
 						- Keith W., TSCP

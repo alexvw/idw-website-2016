@@ -26,7 +26,7 @@
             <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>White Paper One</h3>
+	                <h3>White Paper</h3>
 	                <hr>
 	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem 
 	                expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur 
@@ -39,7 +39,7 @@
             <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>White Paper One</h3>
+	                <h3>White Paper</h3>
 	                <hr>
 	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem 
 	                expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur 
@@ -52,7 +52,7 @@
             <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>White Paper One</h3>
+	                <h3>White Paper</h3>
 	                <hr>
 	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem 
 	                expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur 
@@ -69,7 +69,7 @@
             <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>White Paper One</h3>
+	                <h3>White Paper</h3>
 	                <hr>
 	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem 
 	                expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur 
@@ -82,7 +82,7 @@
             <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>White Paper One</h3>
+	                <h3>White Paper</h3>
 	                <hr>
 	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem 
 	                expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur 
@@ -95,7 +95,7 @@
             <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>White Paper One</h3>
+	                <h3>White Paper</h3>
 	                <hr>
 	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem 
 	                expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur 
