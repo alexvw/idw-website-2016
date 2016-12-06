@@ -61,46 +61,46 @@ Description of business:
 (500 characters)			
 -->
 
-				<form name="sentMessage" id="joinForm" novalidate>
+				<form name="sentMessage" id="joinForm">
                     <div class="control-group form-group">
                         <div class="controls">
                             <label>Company Name:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <input type="text" class="form-control" id="companyname" required data-validation-required-message="Please enter your name.">
                             <p class="help-block"></p>
                         </div>
                     </div>
 					<div class="control-group form-group">
                         <div class="controls">
                             <label>Company Phone:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <input type="text" class="form-control" id="companyphone" required data-validation-required-message="Please enter your name.">
                             <p class="help-block"></p>
                         </div>
                     </div>
 					<div class="control-group form-group">
                         <div class="controls">
                             <label>Company Email:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <input type="text" class="form-control" id="companyemail" required data-validation-required-message="Please enter your name.">
                             <p class="help-block"></p>
                         </div>
                     </div>
 					<div class="control-group form-group">
                         <div class="controls">
                             <label>DUNS Number:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <input type="text" class="form-control" id="duns" required data-validation-required-message="Please enter your name.">
                             <p class="help-block"></p>
                         </div>
                     </div>
 					<div class="control-group form-group">
                         <div class="controls">
                             <label>Address:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <input type="text" class="form-control" id="address" required data-validation-required-message="Please enter your name.">
                             <p class="help-block"></p>
                         </div>
                     </div>
 					<div class="control-group form-group">
                         <div class="controls">
                             <label>City:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <input type="text" class="form-control" id="city" required data-validation-required-message="Please enter your name.">
                             <p class="help-block"></p>
                         </div>
                     </div>
@@ -108,7 +108,7 @@ Description of business:
                     <div class="control-group form-group">
                         <div class="controls">
                             <label>Postal Code:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <input type="text" class="form-control" id="postalcode" required data-validation-required-message="Please enter your name.">
                             <p class="help-block"></p>
                         </div>
                     </div>
@@ -116,7 +116,7 @@ Description of business:
                     <div class="control-group form-group">
                         <div class="controls">
                             <label>Primary Contact:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <input type="text" class="form-control" id="primarycontact" required data-validation-required-message="Please enter your name.">
                             <p class="help-block"></p>
                         </div>
                     </div>
@@ -124,7 +124,7 @@ Description of business:
                     <div class="control-group form-group">
                         <div class="controls">
                             <label>Primary Phone Number:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <input type="text" class="form-control" id="primaryphone" required data-validation-required-message="Please enter your name.">
                             <p class="help-block"></p>
                         </div>
                     </div>
@@ -132,7 +132,7 @@ Description of business:
                     <div class="control-group form-group">
                         <div class="controls">
                             <label>Primary Email:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                            <input type="text" class="form-control" id="primaryemail" required data-validation-required-message="Please enter your name.">
                             <p class="help-block"></p>
                         </div>
                     </div>
@@ -148,7 +148,7 @@ Description of business:
                     <div class="control-group form-group">
                         <div class="controls">
                             <label>Description of Business:</label>
-                            <textarea rows="10" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
+                            <textarea rows="10" cols="100" class="form-control" id="description" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
                         </div>
                     </div>
                     <div id="success"></div>
@@ -170,6 +170,50 @@ Description of business:
 		</div>
     </div>
     <!-- /.container -->
+    <script type="text/javascript">
+    // Attach a submit handler to the form
+		$( "#joinForm" ).submit(function( event ) {
+			// Stop form from submitting normally
+
+			event.preventDefault();
+			// Get some values from elements on the page:
+
+			var successfulSend = function(data){
+				//if data success
+				if (data.status == "success"){
+					//add cookie
+					alert("Thank you for your application! A representative will contact you shortly.");
+					window.location.href="/";
+					}
+			}
+			var messageData = {
+					companyname:$('#companyname').val(),
+					companyphone:$('#companyphone').val(),
+					companyemail:$('#companyemail').val(),
+					duns:$('#duns').val(),
+					address:$('#address').val(),
+					city:$('#city').val(),
+					postalcode:$('#postalcode').val(),
+					primarycontact:$('#primarycontact').val(),
+					primaryphone:$('#primaryphone').val(),
+					primaryemail:$('#primaryemail').val(),
+					description:$('#description').val()
+			}
+			var sendData = {
+					message:"Join our Network request: "+ JSON.stringify(messageData),
+					email:"alex.vander.woude@gmail.com",
+					subject:"New Registration Request: " + messageData.companyname
+					}
+			$.ajax({
+				  type: "POST",
+				  url: "/bin/notify.php",
+				  data: sendData,
+				  success: successfulSend,
+				  dataType: "json"
+				});
+		});
+
+		</script>
    
 	<!-- foot -->
     <?php include("footer.php"); ?>

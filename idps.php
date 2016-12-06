@@ -64,7 +64,7 @@
 					<div class="ap-img-container"><img class="img-responsive img-hover ap-logo-img" src="img/idp/ldap.png" alt="LDAP"></div>
 					
 					<p>Any LDAP or custom directory service can be invoked to verify user
-					attributes for identity verification and federation.  Our solution  integrates
+					attributes for identity security.  Our solution  integrates
 					with company LDAP services to verify a variety of attributes based on policy
 					Including employment status. LDAP services range from custom to industry
 					Standard directory solutions.
@@ -118,7 +118,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 ap-list-object">
 					<div class="ap-img-container"><img class="img-responsive img-hover ap-logo-img" src="img/ap/kaje.png" alt="Kaje Logo"></div>
 				
-					<p>The Kaje Picture Password “Software as a Service” serves as a proof of knowledge replacement for typed passwords or PINs, 
+					<p>The Kaje Picture Password Software as a Service serves as a proof of knowledge replacement for typed passwords or PINs, 
 					with minimal effort or impact on a website’s design, systems, or maintenance.   Picture passwords are superior in every way to 
 					typed passwords. As with the Picture Password option on Windows 8+ login, they have been shown to be safer, easier to remember,
 					and more secure than other methods. But Kaje Picture Passwords are available to web sites, and work on all platforms from 

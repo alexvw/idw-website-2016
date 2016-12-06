@@ -80,10 +80,6 @@
 							<li>
                                 <a href="/faq.php">FAQ</a>
                             </li>
-							<li>
-                                <a href="/=pressreleases.php">Press Releases</a>
-                            </li>
-							
                             <li>
                                 <a href="/usecases.php">Use Cases</a>
                             </li>

@@ -10,7 +10,8 @@
 <script type="text/javascript">
 var sendData = {
 		message:"test message",
-		email:"alex.vander.woude@gmail.com"
+		email:"alex.vander.woude@gmail.com",
+		subject:"test-basic-email"
 		}
 	$.ajax({
 		  type: "POST",

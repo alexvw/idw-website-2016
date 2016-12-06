@@ -30,7 +30,7 @@
 				<br><br>
 				<h2><b>What is the AXN?<b></h2>
 				<br>
-                <p><b style="font-size:120%;">Cloud Broker Service for Identity Verification and Federation</b> 
+                <p><b style="font-size:120%;">Cloud Broker Service for Identity Security</b> 
 				 enabled through the <b style="font-size:120%">Attribute Exchange Network (AXN)</b><br>
 <i>AXN enables enhanced security, privacy, convenience and savings</i><br>
 
@@ -73,7 +73,7 @@
             <div class="col-lg-12">
 				<p><b>Transform your Business Realtime with a Proven, Trusted Identity Solution</b></p>
 				<br>
-				<p>Launch our Identity Verification and Federation Network in hours through a 
+				<p>Launch our Identity Security Network in hours through a 
 				JSON token exchange service which leverages a portfolio of Identity and Attribute Providers.</p>
 				<br><br>
 				<div class="row">

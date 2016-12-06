@@ -30,8 +30,8 @@
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
-                <h1><b>ID DataWeb’s Cloud Broker Services for
-				Identity Verification and Federation<b></h1>
+                <h1><b>ID DataWeb's Cloud Broker Services for
+				Identity Security<b></h1>
 				<h2>working across industries supporting many use cases</h2>
             </div>
         </div>

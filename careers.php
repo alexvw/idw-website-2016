@@ -18,9 +18,7 @@
             <div class="item active">
                 <div class="fill" style="background-image:url('/img/team.jpg');"></div>
                 <div class="carousel-caption carousel-caption-detail dark">
-                    
 					<br><br><br>
-					
                 </div>
             </div>
     </header>
@@ -33,7 +31,7 @@
             <div class="col-lg-12"><br>
 				<h2>ID DataWeb Careers</h2>
 					<br>
-					<p>ID DataWeb‘s identity verification and federation service is precipitating a 
+					<p>ID DataWeb‘s identity security service is precipitating a 
 					paradigm shift in the market for identity security. The parameters of defense have 
 					expanded beyond the walls of enterprises and are far reaching across industry supply 
 					chains and ecosystems which drive the requirement for our identity managed service.</p>

@@ -11,26 +11,38 @@ ini_set('display_errors', 'On');
 $cookie_name = "IDWIsRegistered";
 $base_url = "https://s3.amazonaws.com/docs.iddw/";
 
+
+if(
+		empty($_GET['redir'])
+		)
+{
+	$result_json = array('status' => 'fail', 'reason' => 'insufficient parameters');
+	echo json_encode($result_json);
+	return false;
+}
+
+$redir = $_GET['redir'];
+
 //check to see if cookie is set
 if(!isset($_COOKIE[$cookie_name])) {
 	//if not
-		//display registration form
-		?>
-		<!-- redirect to page where user can enter their registration info and get cookie -->
-		
-		<!-- when user submits information, on success, redirect to content  -->
-		<?php
+		//redirect to registration form
+	header('Location: '.'/resources_template.php?redir='.$redir);
+	exit;
 	
-	
-	
-	echo "Cookie named '" . $cookie_name . "' is not set!";
+	//echo "Cookie named '" . $cookie_name . "' is not set!";
 } else {
 	//if so
 		//notify of download
 		
 		//redirect to content
-	echo "Cookie '" . $cookie_name . "' is set!<br>";
-	echo "Value is: " . urldecode($_COOKIE[$cookie_name]);
+	//echo "Cookie '" . $cookie_name . "' is set!<br>";
+	//echo "Value is: " . urldecode($_COOKIE[$cookie_name]);
+	
+	// Redirect
+		header('Location: '.$base_url.$redir);
+		exit;
+	
 }
 	
 	

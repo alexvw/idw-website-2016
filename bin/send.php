@@ -49,7 +49,7 @@ $subject = $_POST['subject'];
     require '/usr/iddw/aws-php-sdk/aws-autoloader.php';
     //require 'vendor/autoload.php';
     
-//echo "<br>".'SDK Ready. Preparing Client...';
+echo "<br>".'SDK Ready. Preparing Client...';
     //prepare client
     // Hardcoded credentials.
     $client = new SesClient([

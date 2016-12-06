@@ -47,7 +47,7 @@
 			<div class="col-lg-3 col-md-4 col-sm-6 lead-list-object">
 				<a href="/bios/atarbox.php">
                     <img class="img-responsive img-hover leadship-glamour-shot" src="/img/leadship/atarbox.png" alt="Andy Tarbox">
-					<h3 class="leader-name">Andy Tarbox</h3>
+					<h3 class="leader-name">Tim</h3>
 					<span class="leader-title">EVP Corporate Development</span><br>
 					<a href="mailto:awtarbox@gmail.com"><i class="fa fa-envelope fa-2x"></i></span></a>
 					<a href="https://www.linkedin.com/in/andrewtarbox"><i class="fa fa-linkedin-square fa-2x"></i></a>

@@ -219,13 +219,13 @@
 		<div class="row">
 			<div class="col-md-6 col-sm-12">
 				<div class="video-center">
-					<iframe width="460" height="315" src="https://www.youtube.com/embed/8sq7o4-Gm4U?showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<iframe width="460" height="315" src="https://www.youtube.com/embed/mjMO95tpj28?showinfo=0" frameborder="0" allowfullscreen></iframe>
 					<h3>Watch a Video</h3>
 				</div>
 			</div>
 			<div class="col-md-6 col-sm-12">
 				<div class="video-center">
-					<iframe width="460" height="315" src="https://www.youtube.com/embed/8sq7o4-Gm4U?showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<iframe width="460" height="315" src="https://www.youtube.com/embed/UKY65BzZuMY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 					<h3>View a Demo</h3>
 				</div>
 			</div>

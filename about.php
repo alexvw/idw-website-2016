@@ -34,7 +34,7 @@
         <div class="row">
             <div class="col-lg-12">
 				<h2>About Us</h2>
-				<p>IDW provides <b style="font-size:120%;">Cloud Broker Services for Identity Verification and Federation</b> to enterprises and their communities.</p>
+				<p>IDW provides <b style="font-size:120%;">Cloud Broker Services for Identity Security</b> to enterprises and their communities.</p>
 				<br>
 				<h3>ID Dataweb Story</h3>
 				<p>Founded in 2011, ID Dataweb was spun out of Criterion Systems, a premier cybersecurity professional 
@@ -49,13 +49,13 @@
 				for identity federation and independently created the AXN managed service.</p>
 				<br>
 				<h3>NSTIC Experience</h3>
-				<p class="larger">In 2012, IDW’s affiliate, Criterion Systems, was awarded and successfully 
+				<p class="larger">In 2012, IDW's affiliate, Criterion Systems, was awarded and successfully 
 				executed a grant from the National Institute of Standards and Technology 
-				(“NIST”) to implement pilots for the National Strategy for Trusted Identities 
-				in Cyberspace (“NSTIC”).   IDW implemented pilots using the AXN, an Internet-
+				(NIST) to implement pilots for the National Strategy for Trusted Identities 
+				in Cyberspace (NSTIC).   IDW implemented pilots using the AXN, an Internet-
 				scale transaction services and contractual hub for online attribute verification 
 				and credential federation.  The AXN can be used to enforce privacy and federated 
-				Attribute Based Access Control (“ABAC”) security precepts for enhanced security and privacy.</p>  
+				Attribute Based Access Control (ABAC) security precepts for enhanced security and privacy.</p>  
 				
 				<p class="larger">As a commercial cloud service, the AXN enables Identity Providers, Attribute Providers, 
 				Relying Parties, and users to securely federate and reuse credentials with verified user 
