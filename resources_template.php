@@ -71,7 +71,8 @@
 	
 				event.preventDefault();
 				// Get some values from elements on the page:
-	
+				var userEmail = $('#email').val();
+				var userName = $('#name').val();
 				var successfulCookie = function(data){
 					if (data.status == "success"){
 						window.location.href = "<?php echo $base_url.$redir; ?>"
@@ -82,8 +83,8 @@
 					if (data.status == "success"){
 						//add cookie
 						var sendData = {
-								name:"test name",
-								email:"alex.vander.woude@gmail.com",
+								name:userName,
+								email:userEmail,
 								cookiename:"IDWIsRegistered"
 								}
 							$.ajax({
@@ -97,10 +98,10 @@
 								//redirect to resource
 						}
 				}
-				var userEmail = $('#email').val();
+				
 				var sendData = {
 						message:"email: " + userEmail + "<?php echo $redir; ?>",
-						email:"alex.vander.woude@gmail.com",
+						email:"sales@iddataweb.com",
 						subject:"Thank you for downloading from ID DataWeb"
 						}
 					$.ajax({

@@ -31,10 +31,16 @@
 					<img class="img-responsive img-hover leadship-glamour-detail" 
 					src="/img/leadship/tsnyder.png" alt="Linda Vesper Nimmo">
 					</div>
-					<div class="col-sm-4">
-						<h4>
-						</h4>
-						
+					<div class="col-sm-6">
+						<p>
+						Tim has decades of experience in developing and supporting early stage 
+						high technology companies through a broad set of skills in accounting 
+						controls, finance and capital raises, cash management, tax compliance and 
+						planning, management of accounting staff, installation of accounting 
+						system software, contract management, and human resource management. CPA, 
+						Virginia; B.BA and M.S., Accounting, James Madison University; J.D., 
+						George Mason University.
+						</p>
 					</div>
 				</div>
 				<div class="row">

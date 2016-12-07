@@ -37,10 +37,9 @@
 
             <div class="col-sm-3 col-xs-6">
                 <h3>RESOURCES</h3>
-                <br><a href="#">Case Studies</a>
-                <br><a href="#">FAQ</a>
-                <br><a href="#">Press Releases</a>
-                <br><a href="#">Whitepapers</a>
+                <br><a href="/faq.php">FAQ</a>
+                <br><a href="/usecases.php">FAQ</a>
+                <br><a href="/whitepapers.php">Whitepapers</a>
                 </div>
                 <div class="col-sm-3 col-xs-6">
 				<h3>COMPANY</h3>
@@ -52,7 +51,7 @@
 		</div><br><br><br><br>
         <div class="row">
             <div class="col-sm-4">
-                Â© IDDataWeb 2016
+                © IDDataWeb 2016
             </div><div class="col-sm-4">
                 <a href="/privacy.php">Privacy Policy</a>
             </div><div class="col-sm-4">

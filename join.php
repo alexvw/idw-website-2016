@@ -34,8 +34,9 @@
 					<br>
 						<h2>Join our Attribute Exchange Network</h2>
 
-						<h4>ID Dataweb has integrated leading identity providers and attribute partners
-						into the ecosystem.  Our network continues to grow.</h4>
+						<h4>We have integrated leading identity providers and attribute partners into our 
+						cloud broker service.  Our partner ecosystem continues to grow while supporting 
+						clients worldwide.  Join our network and help us close security gaps within and between enterprises.</h4>
 
 <!--
 
@@ -201,7 +202,7 @@ Description of business:
 			}
 			var sendData = {
 					message:"Join our Network request: "+ JSON.stringify(messageData),
-					email:"alex.vander.woude@gmail.com",
+					email:"sales@iddataweb.com",
 					subject:"New Registration Request: " + messageData.companyname
 					}
 			$.ajax({

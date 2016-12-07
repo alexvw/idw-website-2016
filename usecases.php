@@ -28,37 +28,34 @@
         <!-- white paper object -->
         <div class="row">
             <div class="col-sm-4">
-            	<div class="white-paper-tile">
-            		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>Retail</h3>
+            	<div class="white-paper-tile use-case-tile">
+            		<img src="img/usecase-retail.jpg" class="use-case-header-img" alt="RETAIL image">
 	                <hr>
 	                <p>ID DataWeb supports many industries including retail. Together with our partners, ID DataWeb use 
 	                cases for retail include Single-Sign On, Multi-factor Authentication, Credential Reuse and Identity
 	                Proofing for Supply Chain Partners and Attribute Based Access Control across the retail ecosystem.</p>
-	                <a class="btn btn-idw whitepaper-download-btn" href="registeredfilter.php?redir=casestudies/RetailUseCasesfinal.pdf">
+	                <a class="btn btn-idw whitepaper-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/RetailUseCasesfinal.pdf">
 	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
 	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
 				</div>
             </div>
             <div class="col-sm-4">
-            	<div class="white-paper-tile">
-            		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>Derived Credentials</h3>
+            	<div class="white-paper-tile use-case-tile">
+            		<img src="img/usecase-derived.jpg" class="use-case-header-img" alt="Derived Credentials image">
 	                <hr>
 	                <p>Derived Credentials on Mobile Devices using Multi-Factor Authentication.</p>
-	                <a class="btn btn-idw whitepaper-download-btn" href="registeredfilter.php?redir=casestudies/DerivedCredentialsUseCase2~1.pdf">
+	                <a class="btn btn-idw whitepaper-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/DerivedCredentialsUseCase2~1.pdf">
 	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
 	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
 				</div>
             </div>
             <div class="col-sm-4">
-            	<div class="white-paper-tile">
-            		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>Supply Chain Federation</h3>
+            	<div class="white-paper-tile use-case-tile">
+            		<img src="img/usecase-supplychain.jpg" class="use-case-header-img" alt="Supplychain image">
 	                <hr>
 	                <p>ID/DataWeb supports many industries in the implementation of the Trust Framework rules
 	                leveraging its partner network of identity providers and attribute providers through the AXN</p>
-	                <a class="btn btn-idw whitepaper-download-btn" href="registeredfilter.php?redir=casestudies/SupplyChainFederationUseCase.pdf">
+	                <a class="btn btn-idw whitepaper-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/SupplyChainFederationUseCase.pdf">
 	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
 	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
 				</div>

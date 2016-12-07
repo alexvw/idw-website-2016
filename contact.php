@@ -38,9 +38,9 @@
 					Vienna, VA 22182<br>
                 </p><br>
                 <p><i class="fa fa-phone"></i> 
-                    <abbr title="Phone">Phone</abbr>: (123) 456-7890</p>
+                    <abbr title="Phone">Phone</abbr>: (571) 723-4310</p>
                 <p><i class="fa fa-envelope-o"></i> 
-                    <abbr title="Email">Email</abbr>: <a href="mailto:name@example.com">name@example.com</a>
+                    <abbr title="Email">Email</abbr>: <a href="mailto:sales@iddataweb.com">sales@iddataweb.com</a>
                 </p>
                 <!--<ul class="list-unstyled list-inline list-social-icons">
                     <li>

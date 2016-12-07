@@ -116,7 +116,7 @@
         <!-- /.container -->
     </nav>
 	<nav id="fixed-contact"><a class="contact-us-link" href="contact.php">
-	<a id="phone-number-hide"href="tel:11234567890"> (123) 456-7890</a>
+	<a id="phone-number-hide"href="tel:15717234310 ">(571) 723-4310 </a>
 	<a href="/contact.php">
 		<button id="fixed-contact-btn" class="btn btn-idw btn-border btn-white" >Contact Us</button>
 	</a>

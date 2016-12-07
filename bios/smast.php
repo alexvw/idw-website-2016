@@ -31,7 +31,7 @@
 					<img class="img-responsive img-hover leadship-glamour-detail" 
 					src="/img/leadship/smast.png" alt="Steve Mast">
 					</div>
-					<div class="col-sm-4">
+					<div class="col-sm-6">
 						<p>
 						Mr. Mast has 25 years of financial management experience in both public and private information technology firms.
 						</p>

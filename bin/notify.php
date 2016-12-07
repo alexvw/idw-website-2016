@@ -67,7 +67,7 @@ $subject = $_POST['subject'];
 	$result = $client->sendEmail([
 									'Destination' => [ // REQUIRED
 									//TODO: replace this email with something at IDW
-									'BccAddresses' => ['alex.vander.woude@gmail.com'],
+									'BccAddresses' => ['alex.vander.woude@iddataweb.com'],
 									//'CcAddresses' => ['<string>', ...],
 									'ToAddresses' => [$email_address],
 									],
