@@ -30,7 +30,7 @@
 					<br><br><br>
 					<div class="caption-actions">
 						<a href="axn-overview.php">
-							<button class="btn btn-lg btn-idw" style="float:right;">
+							<button class="btn btn-lg btn-inverse" style="float:right;">
 								Learn More
 							</button>
 						</a>
@@ -272,57 +272,57 @@
 		</div>
 		
 		<div class="row">
-            <div class="col-md-4 col-sm-6 list-object">
+            <div class="col-md-3 col-sm-6 list-object">
                 <a href="/industry/industry.php#education">
-                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/education.png" alt="">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/education.jpg" alt="">
 					<h3>Education<br></h3>
                 </a>
             </div>
-            <div class="col-md-4 col-sm-6 list-object">
-                <a href="industry/industry.php#entertainment">
-                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/entertainment.png" alt="">
-					<h3>Entertainment<br></h3>
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6 list-object">
+            <div class="col-md-3 col-sm-6 list-object">
                 <a href="/industry/industry.php#energy">
-                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/energy.png" alt="">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/energy.jpg" alt="">
 					<h3>Energy<br></h3>
                 </a>
             </div>
-			<div class="col-md-4 col-sm-6 list-object">
+            <div class="col-md-3 col-sm-6 list-object">
+                <a href="industry/industry.php#entertainment">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/entertainment.jpg" alt="">
+					<h3>Entertainment<br></h3>
+                </a>
+            </div>
+			<div class="col-md-3 col-sm-6 list-object">
                 <a href="/industry/industry.php#finance">
-                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/finance.png" alt="">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/finance.jpg" alt="">
 					<h3>Finance<br></h3>
                 </a>
             </div>
-            <div class="col-md-4 col-sm-6 list-object">
+            <div class="col-md-3 col-sm-6 list-object">
                 <a href="/industry/industry.php#health">
-                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/health.png" alt="">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/health.jpg" alt="">
 					<h3>Healthcare<br></h3>
                 </a>
             </div>
-            <div class="col-md-4 col-sm-6 list-object">
+            <div class="col-md-3 col-sm-6 list-object">
                 <a href="/industry/industry.php#government">
-                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/government.png" alt="">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/government.jpg" alt="">
 					<h3>Government<br></h3>
                 </a>
             </div>
-			<div class="col-md-4 col-sm-6 list-object">
+			<div class="col-md-3 col-sm-6 list-object">
                 <a href="/industry/industry.php#retail">
-                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/retail.png" alt="">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/retail.jpg" alt="">
 					<h3>Retail<br></h3>
                 </a>
             </div>
-            <div class="col-md-4 col-sm-6 list-object">
+            <!-- <div class="col-md-3 col-sm-6 list-object">
                 <a href="/industry/industry.php#technology">
-                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/technology.png" alt="">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/technology.jpg" alt="">
 					<h3>Technology<br></h3>
                 </a>
-            </div>
-            <div class="col-md-4 col-sm-6 list-object">
+            </div> -->
+            <div class="col-md-3 col-sm-6 list-object">
                 <a href="/industry/industry.php#transportation">
-                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/transport.png" alt="">
+                    <img class="industry-thumb img-responsive img-portfolio img-hover" src="img/sm/transportation.jpg" alt="">
 					<h3>Transportation<br></h3>
                 </a>
             </div>
@@ -386,7 +386,19 @@
 			</div>
 		</div>
         <!-- /.row -->
-<br><br>
+	<br><br>
+	
+	<br><br><div class="row">
+			<div class="col-xs-12">
+				<div class="social-links" style="text-align:center;">
+					<a href="https://www.youtube.com/channel/UCzGlepJf1kPpOZGQ_G8Ox0w" target="_blank">
+						<img src="img/youtubeicon.png" style="width:50px;" alt="ID DataWeb youtube channel"/> &nbsp; ID DataWeb's Youtube Channel
+					</a>
+					</div>
+			</div>
+		</div>
+		<br>
+	
 
     </div>
     <!-- /.container -->

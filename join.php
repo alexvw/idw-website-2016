@@ -140,9 +140,8 @@ Description of business:
 					
                     <div class="control-group form-group">
                         <div class="controls">
-                            <input type="checkbox">&nbsp;<label>Attribute Provider</label>
-                            <input type="checkbox">&nbsp;<label>Identity Provider</label>
-                            <input type="checkbox">&nbsp;<label>Both</label>
+                            <input id="isAP" type="checkbox">&nbsp;<label>Attribute Provider</label>
+                            <input id="isIDP" type="checkbox">&nbsp;<label>Identity Provider</label>
                         </div>
                     </div>
 					
@@ -154,7 +153,7 @@ Description of business:
                     </div>
                     <div id="success"></div>
                     <!-- For success/fail messages -->
-                    <button type="submit" class="btn btn-primary">Send Message</button>
+                    <button type="submit" id="contactForm-submit" cclass="btn btn-primary">Send Message</button>
                 </form><br><br>		
 
             </div>
@@ -176,6 +175,8 @@ Description of business:
 		$( "#joinForm" ).submit(function( event ) {
 			// Stop form from submitting normally
 
+				$('#contactForm-submit').attr('disabled','disabled');
+				
 			event.preventDefault();
 			// Get some values from elements on the page:
 
@@ -188,6 +189,7 @@ Description of business:
 					}
 			}
 			var messageData = {
+					type:"Join our Network Request",
 					companyname:$('#companyname').val(),
 					companyphone:$('#companyphone').val(),
 					companyemail:$('#companyemail').val(),
@@ -197,13 +199,15 @@ Description of business:
 					postalcode:$('#postalcode').val(),
 					primarycontact:$('#primarycontact').val(),
 					primaryphone:$('#primaryphone').val(),
-					primaryemail:$('#primaryemail').val(),
+					isAP:$('#isAP').val(),
+					isIDP:$('#isIDP').val(),
 					description:$('#description').val()
 			}
 			var sendData = {
-					message:"Join our Network request: "+ JSON.stringify(messageData),
-					email:"sales@iddataweb.com",
-					subject:"New Registration Request: " + messageData.companyname
+					message:JSON.stringify(messageData),
+					email:"alex.vander.woude@gmail.com",
+					//email:"sales@iddataweb.com",
+					subject:"New Join Our Network Request: " + messageData.companyname
 					}
 			$.ajax({
 				  type: "POST",

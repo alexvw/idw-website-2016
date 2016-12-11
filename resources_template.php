@@ -61,7 +61,7 @@
                         </div>
                     </div>
 					<div id="status"></div>
-                    <button id="submit-data" class="btn btn-primary">Submit and continue to your download</button>
+                    <button id="submit-data" id="contactForm-submit" class="btn btn-primary">Submit and continue to your download</button>
 			</form><br>
 		</div><br>
 		<script>
@@ -69,6 +69,8 @@
 			$( "#contact-submit" ).submit(function( event ) {
 				// Stop form from submitting normally
 	
+				$('#contactForm-submit').attr('disabled','disabled');
+				
 				event.preventDefault();
 				// Get some values from elements on the page:
 				var userEmail = $('#email').val();
@@ -98,11 +100,20 @@
 								//redirect to resource
 						}
 				}
-				
+				var messageData = {
+						type:"New User Registration",
+						name:$('#name').val(),
+						org:$('#org').val(),
+						title:$('#title').val(),
+						email:$('#email').val(),
+						phone:$('#phone').val(),
+						destination:"<?php echo $redir; ?>",
+				}
 				var sendData = {
-						message:"email: " + userEmail + "<?php echo $redir; ?>",
-						email:"sales@iddataweb.com",
-						subject:"Thank you for downloading from ID DataWeb"
+						message:JSON.stringify(messageData),
+						//email:"sales@iddataweb.com",
+						email:"alex.vander.woude@gmail.com",
+						subject:"New User Registration - iddataweb.com"
 						}
 					$.ajax({
 						  type: "POST",

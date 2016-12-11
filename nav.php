@@ -49,14 +49,6 @@
 									Retail
 								</a>
 							 </li>
-                            <li><a href="/industry/industry.php#technology">
-									Technology
-								</a>
-							 </li>
-                            <li><a href="/industry/industry.php#transportation">
-									Transportation
-								</a>
-							 </li>
                         </ul>
                     </li>
 					<li class="dropdown">
@@ -67,6 +59,9 @@
                             </li>
                             <li>
                                 <a href="/idps.php">Identity Providers</a>
+                            </li>
+                            <li>
+                                <a href="/consulting.php">Consulting Partners</a>
                             </li>
                             <li>
                                 <a href="/join.php">Join Our Network</a>

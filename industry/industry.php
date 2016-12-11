@@ -61,7 +61,7 @@
 				</a>
             </div>
 			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/education.png">
+				<img class="industry-section-img" src="/img/sm/education.jpg">
 				<br><br> 
 			
 			</div>
@@ -88,7 +88,7 @@
 				</a>
             </div>
 			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/entertainment.png">
+				<img class="industry-section-img" src="/img/sm/entertainment.jpg">
 				<br><br> 
 			</div>
         </div>
@@ -115,7 +115,7 @@
 				</a>
             </div>
 			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/health.png">
+				<img class="industry-section-img" src="/img/sm/health.jpg">
 				<br><br> 
 			</div>
         </div>
@@ -141,7 +141,7 @@
 				</a>
             </div>
 			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/energy.png">
+				<img class="industry-section-img" src="/img/sm/energy.jpg">
 				<br><br> 
 			</div>
         </div>
@@ -168,7 +168,7 @@
 				</a>
             </div>
 			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/finance.png">
+				<img class="industry-section-img" src="/img/sm/finance.jpg">
 				<br><br> 
 			</div>
         </div>
@@ -195,7 +195,7 @@
 				</a>
             </div>
 			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/government.png">
+				<img class="industry-section-img" src="/img/sm/government.jpg">
 				<br><br> 
 			</div>
         </div>
@@ -208,13 +208,18 @@
 				<h1 class="industry-header">Retail</h1>
 				</div>
 			<div class="col-sm-6">
-				<p>The <b>Entertainment</b> industry is focused on driving operational efficiencies while innovating and adopting new technologies to support the development and delivery lifecycle.  Organizations require more control, convenience, access, and security. 
-</p>
-				<p>ID DataWeb provides attribute based access control which is essential for protecting assets.</p>
+				<p>The <b>Retail</b> industry is focused on compliance with the EMV 
+				mandate while adopting new technologies to adopt and support the 
+				explosive growth in mobile payment options. Retailers are tightening 
+				security controls to mitigate the ongoing threat of malware and 
+				hackers stealing credit card data and login credentials.
+				</p>
+				<p>ID DataWeb provides real-time identity proofing and credential management:</p>
 				<ul class=" larger-list">
-					<li> Share digital assets online with enhanced control</li>
-					<li> Federate credentials across ecosystems</li>
-					<li> Invoke higher level of assurance credentials as needed</li>
+					<li> Enhance security and privacy controls</li>
+					<li> Federate credentials across retail ecosystem</li>
+					<li> Invoke additional verification during a transaction</li>
+					<li>Enable user managed access and preferences</li>
 				</ul>
 				<br>
 				<a href="/usecases.php">
@@ -222,53 +227,30 @@
 				</a>
             </div>
 			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/retail.png">
+				<img class="industry-section-img" src="/img/sm/retail.jpg">
 				<br><br> 
 			</div>
         </div>
-		
-		
-		<!-- Content Row -->
-        <a name="technology"></a>
-		<div class="row industry-section">
-            <div class="col-sm-12">
-				<h1 class="industry-header">Technology</h1>
-				</div>
-			<div class="col-sm-6">
-				<p>The <b>Entertainment</b> industry is focused on driving operational efficiencies while innovating and adopting new technologies to support the development and delivery lifecycle.  Organizations require more control, convenience, access, and security. 
-</p>
-				<p>ID DataWeb provides attribute based access control which is essential for protecting assets.</p>
-				<ul class=" larger-list">
-					<li> Share digital assets online with enhanced control</li>
-					<li> Federate credentials across ecosystems</li>
-					<li> Invoke higher level of assurance credentials as needed</li>
-				</ul>
-				<br>
-				<a href="/usecases.php">
-					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
-            </div>
-			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/technology.png">
-				<br><br> 
-			</div>
-        </div>
-		
-		
-		<!-- Content Row -->
-        <a name="transportation"></a>
+        
+        <!-- Content Row -->
+        <a name="retail"></a>
 		<div class="row industry-section">
             <div class="col-sm-12">
 				<h1 class="industry-header">Transportation</h1>
 				</div>
 			<div class="col-sm-6">
-				<p>The <b>Entertainment</b> industry is focused on driving operational efficiencies while innovating and adopting new technologies to support the development and delivery lifecycle.  Organizations require more control, convenience, access, and security. 
-</p>
-				<p>ID DataWeb provides attribute based access control which is essential for protecting assets.</p>
+				<p>The <b>Transportation</b> industry is focused on compliance with the EMV 
+				mandate while adopting new technologies to adopt and support the 
+				explosive growth in mobile payment options. Retailers are tightening 
+				security controls to mitigate the ongoing threat of malware and 
+				hackers stealing credit card data and login credentials.
+				</p>
+				<p>ID DataWeb provides real-time identity proofing and credential management:</p>
 				<ul class=" larger-list">
-					<li> Share digital assets online with enhanced control</li>
-					<li> Federate credentials across ecosystems</li>
-					<li> Invoke higher level of assurance credentials as needed</li>
+					<li> Enhance security and privacy controls</li>
+					<li> Federate credentials across retail ecosystem</li>
+					<li> Invoke additional verification during a transaction</li>
+					<li>Enable user managed access and preferences</li>
 				</ul>
 				<br>
 				<a href="/usecases.php">
@@ -276,11 +258,10 @@
 				</a>
             </div>
 			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/transport.png">
+				<img class="industry-section-img" src="/img/sm/transportation.jpg">
 				<br><br> 
 			</div>
         </div>
-		
 		
 		
     </div>

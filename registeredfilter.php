@@ -38,7 +38,23 @@ if(!isset($_COOKIE[$cookie_name])) {
 		//redirect to content
 	//echo "Cookie '" . $cookie_name . "' is set!<br>";
 	//echo "Value is: " . urldecode($_COOKIE[$cookie_name]);
-	
+	?>
+	<script type="text/javascript">
+		var sendData = {
+			message:"test download message",
+			//email:"sales@iddataweb.com",
+			email:"alex.vander.woude@gmail.com",
+			subject:"User downloaded file test"
+			}
+		$.ajax({
+			  type: "POST",
+			  url: "/bin/notify.php",
+			  data: sendData,
+			  success: null,
+			  dataType: "json"
+			});
+	</script>
+	<?php
 	// Redirect
 		header('Location: '.$base_url.$redir);
 		exit;

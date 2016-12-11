@@ -26,6 +26,7 @@
 
     <title>ID DataWeb</title>
 
+	<!-- avanderwoude 01/2016 -->
     <!-- Bootstrap Core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 

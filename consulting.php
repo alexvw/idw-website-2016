@@ -8,15 +8,26 @@
 
     <!-- Navigation -->
     <?php include("nav.php"); ?>
+	
+	
+	<!-- Header Carousel -->
+    <header id="leaderCarousel" class="carousel slide">
 
-    
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <div class="fill" style="background-image:url('img/partners.jpg');"></div>
+                
+            </div>
+    </header>
+
     <!-- Page Content -->
     <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Contact ID/DataWeb
+                <h1 class="page-header">Consulting Partners
                 </h1>
             </div>
         </div>
@@ -24,49 +35,19 @@
 
         <!-- Content Row -->
         <div class="row">
-            <!-- Map Column -->
-            <div class="col-md-6">
-				<div class="row">
-					<div class="col-sm-12">
-						<!-- Embedded Google Map -->
-					<iframe id="office-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" height="400" src="https://maps.google.com/maps?hl=en&q=8330 boone blcd&ie=UTF8&t=satellite&z=15&iwloc=B&output=embed"></iframe>
-					<br><hr>
-					<h3>Contact Details</h3>
-                <p>
-                    ID DataWeb Headquarters<br>
-                    8330 Boone Blvd., Suite 400<br>
-					Vienna, VA 22182<br>
-                </p><br>
-                <p><i class="fa fa-phone"></i> 
-                    <abbr title="Phone">Phone</abbr>: (571) 723-4310</p>
-                <p><i class="fa fa-envelope-o"></i> 
-                    <abbr title="Email">Email</abbr>: <a href="mailto:sales@iddataweb.com">sales@iddataweb.com</a>
-                </p>
-                <!--<ul class="list-unstyled list-inline list-social-icons">
-                    <li>
-                        <a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fa fa-linkedin-square fa-2x"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fa fa-google-plus-square fa-2x"></i></a>
-                    </li>
-                </ul>-->
-				<!-- Currently just a mailto, but at some point should be a chat or managed ticket system -->
-				<h4>Looking for Technical Support with an IDW product?<br>
-				<a href="mailto:support@iddataweb.com">Contact support@iddataweb.com</a>
-				</h4>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-6"><h4>Interested in learning more about our company or our AXN service?</h4>
-			<h4>Provide us your information and submit the form below, and we will contact you shortly.</h4>
+            <div class="col-lg-12">
+                <p>  
+				We are working with partners to enhance identity security and privacy 
+				solutions across industry.  If you are interested in exploring partnership 
+				opportunities with us, please complete the information below and we will be in touch shortly.
+				</p>
+            </div>
+        </div>
+		
+		<br><br>
 
-                <form name="sentMessage" id="contactForm">
+		<h4>Provide us your information and submit the form below, and we will contact you shortly</h4><br>
+			<form name="sentMessage" id="contactForm">
                     <div class="control-group form-group">
                         <div class="controls">
                             <label>Full Name:</label>
@@ -102,15 +83,11 @@
                     <!-- For success/fail messages -->
                     <button type="submit" id="contactForm-submit" class="btn btn-primary btn-idw">Submit</button>
                 </form><br><br>
-			</div>
-        </div>
-        <!-- /.row -->
 
-
+        <hr>
     </div>
     <!-- /.container -->
-
-<!-- /.container -->
+    
     <script type="text/javascript">
     // Attach a submit handler to the form
 		$( "#contactForm" ).submit(function( event ) {
@@ -139,7 +116,7 @@
 					message:JSON.stringify(messageData),
 					//email:"sales@iddataweb.com",
 					email:"alex.vander.woude@gmail.com",
-					subject:"New Contact Request: " + messageData.name
+					subject:"New Consulting Request: " + messageData.name
 					}
 			$.ajax({
 				  type: "POST",

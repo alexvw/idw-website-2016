@@ -53,10 +53,10 @@
 				providing personal information and hope that it will be kept safe and not compromised?</p>
 
 				<p>Reality is much different, sites are hacked; personal and corporate 
-				information is constantly stolen and trust is diminished. The AXN prevents this from happening…</p>
+				information is constantly stolen and trust is diminished. The AXN prevents this from happening.</p>
 				<br><!-- Call to Action Section -->
 				
-				<a class="btn btn-lg btn-idw btn-default btn-block  btn-weird" href="/resources.php#whitepapers">Download Whitepaper</a>
+				<a class="btn btn-lg btn-idw btn-default btn-block btn-weird" href="whitepapers.php">Download Whitepaper</a>
 				
             </div>
         </div>
@@ -78,7 +78,7 @@
 				<br><br>
 				<div class="row">
 					<div class="col-sm-12">
-						<a class="btn btn-lg btn-idw btn-default btn-block btn-weird" href="/resources.php#usecases">Download Use Cases</a>
+						<a class="btn btn-lg btn-idw btn-default btn-block btn-weird" href="/usecases.php">Download Use Cases</a>
 					</div>
 				</div>
 				

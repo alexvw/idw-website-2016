@@ -26,7 +26,7 @@
             <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>ABAC with AXN:</h3>
+	                <h3>ABAC with AXN<br>&nbsp;</h3>
 	                <hr>
 	                <p>Data sharing using real time, attribute-based access controls are a 
 	                powerful method to enable federated access to both consumer and enterprise data...</p>
@@ -38,7 +38,7 @@
             <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>AXN Business Framework:</h3>
+	                <h3>AXN Business Framework</h3>
 	                <hr>
 	                <p>IDW's Attribute Exchange network (AXN) unique revenue model is 
 	                based on a mutually beneficial business model, the composition and commitment of...</p>
@@ -50,7 +50,7 @@
              <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>AXN Data Management:</h3>
+	                <h3>AXN Data Management</h3>
 	                <hr>
 	                <p>The Identity Ecosystem has evolved to where each Relying Party (RP) 
 	                is required to establish its own connection with each Identity Provider (IdP) and Attribute Provider (AP)...</p>
@@ -62,7 +62,7 @@
             <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>AXN Privacy Policy Framework:</h3>
+	                <h3>AXN Privacy Policy Framework</h3>
 	                <hr>
 	                <p>The Identity Ecosystem has evolved to where each Relying Party (RP) is required to 
 	                establish its own connection with each Identity Provider (IdP) and Attribute Provider (AP)...</p>
@@ -74,7 +74,7 @@
             <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>Cloud Broker Value Proposition:</h3>
+	                <h3>Cloud Broker Value Proposition</h3>
 	                <hr>
 	                <p>The AXN allows Identity Providers (IdPs), Attribute Providers (APs), RPs, and users to 
 	                exchange, reuse credentials and verified attributes across multiple sites...</p>
@@ -83,22 +83,10 @@
 	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
 				</div>
             </div>
-            <div class="col-sm-4">
-            	<div class="white-paper-tile">
-            		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>NSTIC Summary</h3>
-	                <hr>
-	                <p>The National Strategy for Trusted Identities in Cyberspace (NSTIC) Pilot Grant Program is a 
-	                marketplace catalyst to encourage new solutions, establish Internet privacy, security, interoperability...</p>
-	                <a class="btn btn-idw whitepaper-download-btn" href="registeredfilter.php?redir=whitepapers/NSTIC+Summary.pdf">
-	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
-	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
-				</div>
-            </div>
              <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>HICAM:</h3>
+	                <h3>HICAM<br>&nbsp;</h3>
 	                <hr>
 	                <p>The state, local and federal Health Care communites are moving to a 
 	                shared-services IT model based on cloud computing with on-demand access...</p>
@@ -110,7 +98,19 @@
             <div class="col-sm-4">
             	<div class="white-paper-tile">
             		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
-	                <h3>SOA Architecture Leveraging AXN:</h3>
+	                <h3>NSTIC Summary<br>&nbsp;</h3>
+	                <hr>
+	                <p>The National Strategy for Trusted Identities in Cyberspace (NSTIC) Pilot Grant Program is a 
+	                marketplace catalyst to encourage new solutions, establish Internet privacy, security, interoperability...</p>
+	                <a class="btn btn-idw whitepaper-download-btn" href="registeredfilter.php?redir=whitepapers/NSTIC+Summary.pdf">
+	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+				</div>
+            </div>
+            <div class="col-sm-4">
+            	<div class="white-paper-tile">
+            		<span class="white-paper-icon"><br><span class="glyphicon glyphicon-file" aria-hidden="true"></span></span>
+	                <h3>SOA Architecture Leveraging AXN</h3>
 	                <hr>
 	                <p>Within Service-Oriented Architectures (SOA), there is an ecosystem which incorporates a 
 	                network of federated services and identities needed for real-time...</p>
