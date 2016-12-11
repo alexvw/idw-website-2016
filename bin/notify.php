@@ -3,19 +3,6 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 'On');
 
-//$cookie_value = urlencode('Alex Vander Woude / alex.vander.woude@gmail.com');
-//setcookie($cookie_name, $cookie_value, time() + (86400 * 60), "/"); // 86400 = 1 day, so two months
-
-/*if(!isset($_COOKIE[$cookie_name])) {
-    echo "Cookie named '" . $cookie_name . "' is not set!";
-} else {
-    echo "Cookie '" . $cookie_name . "' is set!<br>";
-    echo "Value is: " . urldecode($_COOKIE[$cookie_name]);
-}*/
-
-// check if fields passed are empty
-
-
 // headers for not caching the results
 header('Cache-Control: no-cache, must-revalidate');
 header('Expires: Mon, 26 Jul 1997 05:00:00 GMT');

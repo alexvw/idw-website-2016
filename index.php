@@ -234,32 +234,6 @@
 		-->
 		<br><br><br>
         <hr>
-		<!--
-		<div class="row">
-			<div class="col-xs-12">
-				<div class="stolen">
-					<span id="stolen-count" class="odometer">
-					1,023,108,267
-					</span>
-					<h1>Data Records Lost or Stolen in 2014</h1>
-					<p style="font-size:9px;">Source: Gemalto Breach Level Index 2014</p>
-				</div>
-			</div>
-		</div>
-		-->
-		<br>
-        <!-- Call to Action Section -->
-        <!--<div class="well">
-            <div class="row">
-                <div class="col-md-8">
-                    <p>ID/DataWeb enables consumers, employees, and partners to securely federate and reuse 
-					credentials and attributes in a policy driven, low-risk manner and at an affordable cost.</p>
-                </div>
-                <div class="col-md-4">
-                    <a class="btn btn-lg btn-idw btn-default btn-block" href="contact.php">Secure Your Data</a>
-                </div>
-            </div>
-        </div><br>-->
 		
         <!-- Portfolio Section -->
         <div class="row">

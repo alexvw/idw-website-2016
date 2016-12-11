@@ -46,7 +46,7 @@ header('Content-type: application/json');
 	$cookie_name = $_POST['cookiename'];
 
 	$cookie_value = urlencode($name . " / " . $email_address);
-	setcookie($cookie_name, $cookie_value, time()+60*60*24*90, "/"); // 86400 = 1 day, so two months //TODO: PUT back to 60 days
+	setcookie($cookie_name, $cookie_value, time()+60*60*24*90, "/"); // 86400 = 1 day, so two months
 	
 	
     //echo "<br>".'Sent';

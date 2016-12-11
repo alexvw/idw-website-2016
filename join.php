@@ -205,7 +205,7 @@ Description of business:
 			}
 			var sendData = {
 					message:JSON.stringify(messageData),
-					email:"alex.vander.woude@gmail.com",
+					email:"sales@iddataweb.com",
 					//email:"sales@iddataweb.com",
 					subject:"New Join Our Network Request: " + messageData.companyname
 					}

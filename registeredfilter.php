@@ -43,7 +43,7 @@ if(!isset($_COOKIE[$cookie_name])) {
 		var sendData = {
 			message:"test download message",
 			//email:"sales@iddataweb.com",
-			email:"alex.vander.woude@gmail.com",
+			email:"sales@iddataweb.com",
 			subject:"User downloaded file test"
 			}
 		$.ajax({

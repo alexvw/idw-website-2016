@@ -111,8 +111,8 @@
 				}
 				var sendData = {
 						message:JSON.stringify(messageData),
-						//email:"sales@iddataweb.com",
-						email:"alex.vander.woude@gmail.com",
+						email:"sales@iddataweb.com",
+						//email:"alex.vander.woude@gmail.com",
 						subject:"New User Registration - iddataweb.com"
 						}
 					$.ajax({
