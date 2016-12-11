@@ -20,7 +20,7 @@
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-            <div class="item active">
+            <div class="item active" class="button-relative-wrapper">
                 <div class="fill" style="background-image:url('img/home.jpg');"></div>
                 <div class="carousel-caption" style="color:black;">
                     <h1 class="index-main-carousel">
@@ -28,14 +28,15 @@
 					<span>for Identity Security</span>
 					</h1>
 					<br><br><br>
-					<div class="caption-actions">
+					
+                </div>
+                <div class="caption-actions top-button-wrapper">
 						<a href="axn-overview.php">
 							<button class="btn btn-lg btn-inverse" style="float:right;">
 								Learn More
 							</button>
 						</a>
 					</div>
-                </div>
             </div>
             <!--<div class="item">
                 <div class="fill" style="background-image:url('img/ppl-example.jpg');"></div>
@@ -163,7 +164,7 @@
 			</div>
 			<br><br>
 			<div class="row">
-				<div class="col-sm-3">
+				<div class="col-sm-3 col-xs-6 benefit-list">
 					<h4>Customers</h4>
 					<ul class="front-page-list">
 						<li> Agile</li>
@@ -174,7 +175,7 @@
 						<li> Credential Federation</li>
 					</ul>
 				</div>
-				<div class="col-sm-3">
+				<div class="col-sm-3 col-xs-6 benefit-list">
 					<h4>Identity Providers</h4>
 					<ul class="front-page-list">
 						<li> Savings</li>
@@ -184,8 +185,8 @@
 
 					</ul>
 				</div>
-				<div class="col-sm-3">
-					<h4>Attributes Providers</h4>
+				<div class="col-sm-3 col-xs-6 benefit-list">
+					<h4>Attribute Providers</h4>
 					<ul class="front-page-list">
 						<li> New Revenue</li>
 						<li> Sales Channel</li>
@@ -193,16 +194,14 @@
 
 					</ul>
 				</div>
-				<div class="col-sm-3">
+				<div class="col-sm-3 col-xs-6 benefit-list">
 					<h4>Users</h4>
 					<ul class="front-page-list">
 						<li> Convenience</li>
 						<li> Secure</li>
 						<li> Compliant</li>
 						<li> User Console</li>
-
 					</ul>
-					
 				</div>
 			</div>
 			<br><br>
@@ -219,7 +218,7 @@
 		<div class="row">
 			<div class="col-md-6 col-sm-12">
 				<div class="video-center">
-					<iframe width="460" height="315" src="https://www.youtube.com/embed/mjMO95tpj28?showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<iframe width="460" height="315" src="https://www.youtube.com/embed/RnUlnPkCkOY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 					<h3>Watch a Video</h3>
 				</div>
 			</div>

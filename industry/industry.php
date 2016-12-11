@@ -16,7 +16,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="fill" style="background-image:url('/img/industry.png');"></div>
+                <div class="fill" style="background-image:url('/img/industry.jpg');"></div>
                 <div class="carousel-caption carousel-caption-detail">
 					<br><br><br>
 					
@@ -66,6 +66,33 @@
 			
 			</div>
         </div>
+        
+        
+		<!-- Content Row -->
+        <a name="energy"></a>
+		<div class="row industry-section">
+            <div class="col-sm-12">
+				<h1 class="industry-header">Energy</h1>
+				</div>
+			<div class="col-sm-6">
+				<p>The <b>Energy</b> industry is rapidly adopting cloud computing amassing significant data and 
+				information which needs to be actionable throughout the supply chain of plants and facilities.  Both physical and logical security is paramount. </p>
+				<p>ID DataWeb enables the use various levels of assurance credentials along with multifactor authentication to mitigate risk. </p>
+				<ul class=" larger-list">
+					<li> Share data and information with enhanced security</li>
+					<li> Authorize information exchange between facilities and contractors</li>
+				</ul>
+				<br>
+				<a href="/usecases.php">
+					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
+				</a>
+            </div>
+			<div class="col-sm-6">
+				<img class="industry-section-img" src="/img/sm/energy.jpg">
+				<br><br> 
+			</div>
+        </div>
+		
 		
 		<!-- Content Row -->
         <a name="entertainment"></a>
@@ -120,31 +147,6 @@
 			</div>
         </div>
 		
-		
-		<!-- Content Row -->
-        <a name="energy"></a>
-		<div class="row industry-section">
-            <div class="col-sm-12">
-				<h1 class="industry-header">Energy</h1>
-				</div>
-			<div class="col-sm-6">
-				<p>The <b>Energy</b> industry is rapidly adopting cloud computing amassing significant data and 
-				information which needs to be actionable throughout the supply chain of plants and facilities.  Both physical and logical security is paramount. </p>
-				<p>ID DataWeb enables the use various levels of assurance credentials along with multifactor authentication to mitigate risk. </p>
-				<ul class=" larger-list">
-					<li> Share data and information with enhanced security</li>
-					<li> Authorize information exchange between facilities and contractors</li>
-				</ul>
-				<br>
-				<a href="/usecases.php">
-					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
-            </div>
-			<div class="col-sm-6">
-				<img class="industry-section-img" src="/img/sm/energy.jpg">
-				<br><br> 
-			</div>
-        </div>
 		
 		
 		<!-- Content Row -->

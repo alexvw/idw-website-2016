@@ -10,7 +10,7 @@
 
 </div><div class="col-sm-3  col-xs-6">
 </div>            <div class="col-sm-3  col-xs-6" style="text-align:right;">
-                <a class="contact-us-link" href="contact.php">
+                <a class="contact-us-link" href="/contact.php">
                     <button class="btn btn-idw">Contact ID DataWeb</button>
                 </a>
 			</div>

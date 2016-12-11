@@ -23,13 +23,13 @@
                             <li><a href="/industry/industry.php#education">
 									Education
 								</a>
+							 </li>							 
+                            <li><a href="/industry/industry.php#energy">
+									Energy
+								</a>
 							 </li>
                             <li><a href="/industry/industry.php#entertainment">
 									Entertainment
-								</a>
-							 </li>
-                            <li><a href="/industry/industry.php#energy">
-									Energy
 								</a>
 							 </li>
                             <li><a href="/industry/industry.php#finance">
