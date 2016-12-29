@@ -19,7 +19,6 @@
                 <div class="fill" style="background-image:url('/img/industry.jpg');"></div>
                 <div class="carousel-caption carousel-caption-detail">
 					<br><br><br>
-					
                 </div>
             </div>
     </header>
@@ -58,12 +57,11 @@
 				<br>
 				<a href="/usecases.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				</a><br><br>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/education.jpg">
 				<br><br> 
-			
 			</div>
         </div>
         
@@ -77,7 +75,7 @@
 			<div class="col-sm-6">
 				<p>The <b>Energy</b> industry is rapidly adopting cloud computing amassing significant data and 
 				information which needs to be actionable throughout the supply chain of plants and facilities.  Both physical and logical security is paramount. </p>
-				<p>ID DataWeb enables the use various levels of assurance credentials along with multifactor authentication to mitigate risk. </p>
+				<p>ID DataWeb enables the use of various levels of assurance credentials along with multifactor authentication to mitigate risk. </p>
 				<ul class=" larger-list">
 					<li> Share data and information with enhanced security</li>
 					<li> Authorize information exchange between facilities and contractors</li>
@@ -85,7 +83,7 @@
 				<br>
 				<a href="/usecases.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				</a><br><br>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/energy.jpg">
@@ -112,7 +110,7 @@
 				<br>
 				<a href="/usecases.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				</a><br><br>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/entertainment.jpg">
@@ -139,7 +137,7 @@
 				<br>
 				<a href="/usecases.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				</a><br><br>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/health.jpg">
@@ -167,7 +165,7 @@
 				<br>
 				<a href="/usecases.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				</a><br><br>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/finance.jpg">
@@ -194,7 +192,7 @@
 				<br>
 				<a href="/usecases.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				</a><br><br>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/government.jpg">
@@ -221,12 +219,12 @@
 					<li> Enhance security and privacy controls</li>
 					<li> Federate credentials across retail ecosystem</li>
 					<li> Invoke additional verification during a transaction</li>
-					<li>Enable user managed access and preferences</li>
+					<li> Enable user managed access and preferences</li>
 				</ul>
 				<br>
 				<a href="/usecases.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				</a><br><br>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/retail.jpg">
@@ -235,29 +233,30 @@
         </div>
         
         <!-- Content Row -->
-        <a name="retail"></a>
+        <a name="transportation"></a>
 		<div class="row industry-section">
             <div class="col-sm-12">
 				<h1 class="industry-header">Transportation</h1>
 				</div>
 			<div class="col-sm-6">
-				<p>The <b>Transportation</b> industry is focused on compliance with the EMV 
-				mandate while adopting new technologies to adopt and support the 
-				explosive growth in mobile payment options. Retailers are tightening 
-				security controls to mitigate the ongoing threat of malware and 
-				hackers stealing credit card data and login credentials.
+				<p>The <b>Transportation</b> industry is a lifeblood of economies globally.  
+				From trains, planes to automobiles, the transportation ecosystem is increasingly 
+				dependent upon digital commerce and technology.  There is acute focus to 
+				address serious cyber threats with a well-orchestrated cyber security risk and mitigation strategy.
 				</p>
-				<p>ID DataWeb provides real-time identity proofing and credential management:</p>
+				<p>ID DataWeb provides capabilities to enhance identity security for 
+				all parties in the transportation supply chain:</p>
 				<ul class=" larger-list">
+					<li> Real-time identity proofing and credential management:</li>
 					<li> Enhance security and privacy controls</li>
-					<li> Federate credentials across retail ecosystem</li>
-					<li> Invoke additional verification during a transaction</li>
-					<li>Enable user managed access and preferences</li>
+					<li> Federate credentials across transportation ecosystem</li>
+					<li> Invoke additional verification during transactions</li>
+					<li> Enable user managed access and preferences</li>
 				</ul>
 				<br>
 				<a href="/usecases.php">
 					<button class="btn btn-idw use-case-download" >Download Use Cases</button>
-				</a>
+				</a><br><br>
             </div>
 			<div class="col-sm-6">
 				<img class="industry-section-img" src="/img/sm/transportation.jpg">

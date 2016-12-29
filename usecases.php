@@ -27,43 +27,139 @@
 
         <!-- white paper object -->
         <div class="row">
-            <div class="col-sm-4">
-            	<div class="white-paper-tile use-case-tile">
-            		<img src="img/usecase-retail.jpg" class="use-case-header-img" alt="RETAIL image">
-	                <hr>
-	                <p>ID DataWeb supports many industries including retail. Together with our partners, ID DataWeb use 
-	                cases for retail include Single-Sign On, Multi-factor Authentication, Credential Reuse and Identity
-	                Proofing for Supply Chain Partners and Attribute Based Access Control across the retail ecosystem.</p>
-	                <a class="btn btn-idw whitepaper-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/RetailUseCasesfinal.pdf">
-	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
-	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+            <div class="col-sm-6 col-md-3">
+            	<div class="use-case-tile-wrapper">
+	            	<div class="white-paper-tile use-case-tile">
+	            		<div class="usecase-title-wrapper">
+	            			<img src="img/usecase-tile.jpg" class="use-case-header-img" alt="Use Case Image">
+		            		<div class="use-case-title">
+		            			ABAC
+		            		</div>
+	            		</div>
+	            	</div>
+	            	<div>
+		                <a class="btn btn-idw usecase-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/ABACUseCase2016.pdf">
+		                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+		                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+					</div>
 				</div>
             </div>
-            <div class="col-sm-4">
-            	<div class="white-paper-tile use-case-tile">
-            		<img src="img/usecase-derived.jpg" class="use-case-header-img" alt="Derived Credentials image">
-	                <hr>
-	                <p>Derived Credentials on Mobile Devices using Multi-Factor Authentication.</p>
-	                <a class="btn btn-idw whitepaper-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/DerivedCredentialsUseCase2~1.pdf">
-	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
-	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+            
+            <div class="col-sm-6 col-md-3">
+            	<div class="use-case-tile-wrapper">
+	            	<div class="white-paper-tile use-case-tile">
+	            		<div class="usecase-title-wrapper">
+	            			<img src="img/usecase-tile.jpg" class="use-case-header-img" alt="Use Case Image">
+		            		<div class="use-case-title">
+		            			<span style="font-size:80%;">
+		            				Derived Credentials
+		            			</span>
+		            		</div>
+	            		</div>
+	            	</div>
+	            	<div>
+		                <a class="btn btn-idw usecase-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/DerivedCredentialsUseCase.pdf">
+		                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+		                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+					</div>
 				</div>
             </div>
-            <div class="col-sm-4">
-            	<div class="white-paper-tile use-case-tile">
-            		<img src="img/usecase-supplychain.jpg" class="use-case-header-img" alt="Supplychain image">
-	                <hr>
-	                <p>ID/DataWeb supports many industries in the implementation of the Trust Framework rules
-	                leveraging its partner network of identity providers and attribute providers through the AXN</p>
-	                <a class="btn btn-idw whitepaper-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/SupplyChainFederationUseCase.pdf">
-	                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
-	                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+            
+            <div class="col-sm-6 col-md-3">
+            	<div class="use-case-tile-wrapper">
+	            	<div class="white-paper-tile use-case-tile">
+	            		<div class="usecase-title-wrapper">
+	            			<img src="img/usecase-tile.jpg" class="use-case-header-img" alt="Use Case Image">
+		            		<div class="use-case-title">
+		            			Healthcare
+		            		</div>
+	            		</div>
+	            	</div>
+	            	<div>
+		                <a class="btn btn-idw usecase-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/HealthVirtualClipboardusecase‎.pdf">
+		                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+		                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+					</div>
 				</div>
             </div>
-           
+            
+            <div class="col-sm-6 col-md-3">
+            	<div class="use-case-tile-wrapper">
+	            	<div class="white-paper-tile use-case-tile">
+	            		<div class="usecase-title-wrapper">
+	            			<img src="img/usecase-tile.jpg" class="use-case-header-img" alt="Use Case Image">
+		            		<div class="use-case-title">
+		            			M&E
+		            		</div>
+	            		</div>
+	            	</div>
+	            	<div>
+		                <a class="btn btn-idw usecase-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/MEusecase2016.pdf">
+		                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+		                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+					</div>
+				</div>
+            </div>
+            
+            <div class="col-sm-6 col-md-3">
+            	<div class="use-case-tile-wrapper">
+	            	<div class="white-paper-tile use-case-tile">
+	            		<div class="usecase-title-wrapper">
+	            			<img src="img/usecase-tile.jpg" class="use-case-header-img" alt="Use Case Image">
+		            		<div class="use-case-title">
+		            			Retail
+		            		</div>
+	            		</div>
+	            	</div>
+	            	<div>
+		                <a class="btn btn-idw usecase-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/RetailUseCasesfinal.pdf">
+		                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+		                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+					</div>
+				</div>
+            </div>
+            
+            <div class="col-sm-6 col-md-3">
+            	<div class="use-case-tile-wrapper">
+	            	<div class="white-paper-tile use-case-tile">
+	            		<div class="usecase-title-wrapper">
+	            			<img src="img/usecase-tile.jpg" class="use-case-header-img" alt="Use Case Image">
+		            		<div class="use-case-title">
+		            			Supply Chain
+		            		</div>
+	            		</div>
+	            	</div>
+	            	<div>
+		                <a class="btn btn-idw usecase-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/SupplyChainFederationUseCase.pdf">
+		                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+		                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+					</div>
+				</div>
+            </div>
+            
+            <div class="col-sm-6 col-md-3">
+            	<div class="use-case-tile-wrapper">
+	            	<div class="white-paper-tile use-case-tile">
+	            		<div class="usecase-title-wrapper">
+	            			<img src="img/usecase-tile.jpg" class="use-case-header-img" alt="Use Case Image">
+		            		<div class="use-case-title">
+		            			Wireless
+		            		</div>
+	            		</div>
+	            	</div>
+	            	<div>
+		                <a class="btn btn-idw usecase-download-btn" target="_blank" href="https://s3.amazonaws.com/docs.iddw/casestudies/WirelessCarrierUseCase2016‎.pdf">
+		                <span class="glyphicon glyphicon-download-alt" aria-hidden="true">
+		                </span>&nbsp;&nbsp;&nbsp;&nbsp;Download</a>
+					</div>
+				</div>
+            </div>
+            
+            
         </div>
         <!-- /.row -->
         <hr>
+        
     </div>
     <!-- /.container -->
 	<!-- foot -->

@@ -15,9 +15,9 @@
 			<div class="col-lg-12">				
 				<article>
 					<div class="entry-content">
-						<h2><img src="/img/question.png" />&nbsp;&nbsp;ID DataWeb Attribute Exchange Network (AXN)</h2>
-						<h2><i>Frequently Asked Questions:</i></h2>
-						<br>
+						<h2><img src="/img/question.png" />&nbsp;&nbsp;Attribute Exchange Network (AXN)</h2>
+						<br><br><h2><i>Frequently Asked Questions:</i></h2>
+						<br><br>
 						<h2>What is a cloud broker service?</h2>
 
 						<p>A cloud broker service is defined as a service oriented architecture in which various services 

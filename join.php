@@ -18,9 +18,7 @@
             <div class="item active">
                 <div class="fill" style="background-image:url('/img/join.jpg');"></div>
                 <div class="carousel-caption carousel-caption-detail dark">
-                    
 					<br><br><br>
-					
                 </div>
             </div>
     </header>
@@ -153,7 +151,7 @@ Description of business:
                     </div>
                     <div id="success"></div>
                     <!-- For success/fail messages -->
-                    <button type="submit" id="contactForm-submit" cclass="btn btn-primary">Send Message</button>
+                    <button type="submit" id="contactForm-submit" class="btn btn-primary btn-idw">Submit</button>
                 </form><br><br>		
 
             </div>

@@ -21,7 +21,15 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active" class="button-relative-wrapper">
+            
                 <div class="fill" style="background-image:url('img/home.jpg');"></div>
+                <a href="axn-overview.php"><div class="caption-actions top-button-wrapper">
+						
+							<button class="btn btn-lg btn-idw btn-border home-page-btn" style="float:right;">
+								Learn More
+							</button>
+						
+					</div>
                 <div class="carousel-caption" style="color:black;">
                     <h1 class="index-main-carousel">
 					Cloud Broker Services <br/>
@@ -29,14 +37,7 @@
 					</h1>
 					<br><br><br>
 					
-                </div>
-                <div class="caption-actions top-button-wrapper">
-						<a href="axn-overview.php">
-							<button class="btn btn-lg btn-inverse" style="float:right;">
-								Learn More
-							</button>
-						</a>
-					</div>
+                </div></a>
             </div>
             <!--<div class="item">
                 <div class="fill" style="background-image:url('img/ppl-example.jpg');"></div>
@@ -362,10 +363,17 @@
 	<br><br>
 	
 	<br><br><div class="row">
-			<div class="col-xs-12">
+			<div class="col-xs-6">
 				<div class="social-links" style="text-align:center;">
 					<a href="https://www.youtube.com/channel/UCzGlepJf1kPpOZGQ_G8Ox0w" target="_blank">
-						<img src="img/youtubeicon.png" style="width:50px;" alt="ID DataWeb youtube channel"/> &nbsp; ID DataWeb's Youtube Channel
+						<img src="img/youtubeicon.png" style="width:18px;" alt="ID DataWeb youtube channel"/> &nbsp;Youtube Channel
+					</a>
+					</div>
+			</div>
+			<div class="col-xs-6">
+				<div class="social-links" style="text-align:center;">
+					<a href="https://mail.criterion-sys.com/owa/redir.aspx?C=273204a31eec4190b57c4afb2ffab12b&URL=https%3a%2f%2fwww.brighttalk.com%2fwebcast%2f288%2f234575%3futm_source%3dBrightTALK%26utm_medium%3dbrighttalk%26utm_campaign%3d234575" target="_blank">
+						<span class="glyphicon glyphicon-facetime-video" aria-hidden="true"></span> &nbsp;View a Webinar
 					</a>
 					</div>
 			</div>
